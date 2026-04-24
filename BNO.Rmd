@@ -4,10 +4,13 @@ output:
   word_document: default
   html_document: default
 date: "2026-03-16"
+always_allow_html: true
 ---
 ```{r setup, include=FALSE}
 #setting up directory
 knitr::opts_knit$set(root.dir = "/Users/kahei/Desktop/BNO_parliament_text/text")
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.table.format = "pipe")
 ```
 
 ```{r}
@@ -24,8 +27,12 @@ library(text2vec)
 library(RcppParallel)
 library(ggthemes)
 library(umap)
-install.packages("textstem")
+#install.packages("textstem")
 library(textstem)
+library(tidytext)
+library(ggplot2)
+library(quanteda)
+library(kableExtra)
 ```
 
 ```{r}
@@ -86,10 +93,10 @@ is_speaker_line <- function(line) { #Defines a function that decides whether a l
   # bare short name — ≤5 words, each title-cased, no brackets
   # e.g. "Andrew Rosindell", "Bob Seely"
   words <- str_split(line, "\\s+")[[1]]
-  if (length(words) >= 2 %>% #length between 2-5
-    length(words) <= 5 %>% 
-      !str_detect(line, "\\(") %>% #must contain no parentheses
-     !str_detect(line, "\\d") %>% #must contain no digits
+  if (length(words) >= 2 && #length between 2-5
+    length(words) <= 5 && 
+      !str_detect(line, "\\(") && #must contain no parentheses
+     !str_detect(line, "\\d") && #must contain no digits
       all(str_detect(words, "^[A-Z][a-zA-Z.'-]+$"))) return(TRUE) #Every word must start with a capital letter and contain only letters/punctuation
   
   FALSE
@@ -304,19 +311,22 @@ hansard_parsed <- hansard_parsed %>%
 hansard_parsed %>% count(period)
 
 #data table
-data.frame(
-  Column = c("turn_id", "date", "year", "period", "speaker_name", "party", "speech"),
-  Description = c(
-    "Unique identifier for each speech",
-    "Date of the parliamentary debate",
-    "Extracted year of the speech",
-    "Early (2019–2021) vs Late (2022–2026)",
-    "Name of the speaker delivering the speech (MPs, Ministers, Lords, Baronesses, and other parliamentary participants)",
-    "Political party affiliation",
-    "Full speech text"
-  )
-) %>%
-  kable(caption = "Table 1. Overview of dataset variables")
+knitr::kable(
+  data.frame(
+    Column = c("turn_id", "date", "year", "period", "speaker_name", "party", "speech"),
+    Description = c(
+      "Unique identifier for each speech",
+      "Date of the parliamentary debate",
+      "Extracted year of the speech",
+      "Early (2019–2021) vs Late (2022–2026)",
+      "Name of the speaker delivering the speech (MPs, Ministers, Lords, Baronesses, and other parliamentary participants)",
+      "Political party affiliation",
+      "Full speech text"
+    )
+  ),
+  caption = "Table 1. Overview of dataset variables",
+  align = c("l", "l")
+)
 ```
 
 ```{r}
@@ -467,7 +477,7 @@ saveRDS(word_vectors_late, "glove_late.rds")
 ```
 
 ```{r}
-#normalise
+# Normalise - turn it into cosine similarity
 nearest_words <- function(embedding, word, n = 20) {
   if (!word %in% rownames(embedding)) {
     message("'", word, "' not found in vocabulary")
@@ -547,6 +557,8 @@ p1
 ```
 
 ```{r}
+# Combine nearest neighbours results - Hongkongers
+# ── Plot 2: Hongkongers early vs late ────────────────────────────────────────────────
 p2 <- bind_rows(
   nearest_words(word_vectors_early, "hongkongers") %>%
     mutate(period = "Early (2019-2021)"),
@@ -585,6 +597,8 @@ p2 <- bind_rows(
 p2
 ```
 ```{r}
+# Combine nearest neighbours results - BNOs
+# ── Plot 3: BNOs early vs late ─────────────────────────────────────────────────
 p3 <- bind_rows(
   nearest_words(word_vectors_early, "bnos") %>%
     mutate(period = "Early (2019-2021)"),
@@ -625,7 +639,7 @@ p3
 
 
 ```{r}
-# Combine Hong + Kong vectors
+# Combine nearest neighbours results - Hong Kong
 hong_kong_vec_early <- word_vectors_early["hong", ] + 
                        word_vectors_early["kong", ]
 
@@ -634,7 +648,7 @@ hong_kong_vec_late  <- word_vectors_late["hong", ] +
 
 # Find nearest neighbours for combined vector
 # Need a slightly different approach since it's not a single word
-find_nearest <- function(embedding, query_vec, n = 20) {
+find_nearest <- function(embedding, query_vec, n = 20) { # find top 20
   cos_sim <- sim2(
     x = embedding, 
     y = matrix(query_vec, nrow = 1),
@@ -644,13 +658,13 @@ find_nearest <- function(embedding, query_vec, n = 20) {
     as.data.frame() %>%
     rownames_to_column("word") %>%
     rename(similarity = 2) %>%
-    anti_join(get_stopwords(language = "en"), by = "word") %>%
+    anti_join(get_stopwords(language = "en"), by = "word") %>% #remove stop words
     filter(!word %in% c("hong", "kong", "kongers", "kongs", "bno", "bnos", "hongkongers")) %>%
     arrange(-similarity) %>%
     head(n)
 }
 
-# Early vs late
+# Apply function and get neighbour words from both Early vs late
 hongkong_early <- find_nearest(word_vectors_early, hong_kong_vec_early)
 hongkong_late <- find_nearest(word_vectors_late,  hong_kong_vec_late)
 
@@ -659,7 +673,7 @@ hongkong_late
 ```
 
 ```{r}
-#Hongkong plot
+# ── Plot 4: Hong Kong early vs late ─────────────────────────────────────────────────
 p4 <- bind_rows(
   hongkong_early %>% mutate(period = "Early (2019-2021)"),
   hongkong_late  %>% mutate(period = "Late (2022-2026)")
@@ -695,67 +709,6 @@ p4 <- bind_rows(
 
 p4
 ```
-
-```{r}
-#UMAP for overview
-#Full corpus — train on all speeches
-#step 1, shuffling
-set.seed(42L)
-text_all <- sample(hansard_parsed$speech)
-
-#step 2, create vocab
-tokens_all       <- space_tokenizer(text_all)
-it_all           <- itoken(tokens_all, progressbar = FALSE)
-vocab_all        <- create_vocabulary(it_all)
-vocab_pruned_all <- prune_vocabulary(vocab_all, term_count_min = COUNT_MIN)
-
-#step 3, Create TCM
-vectorizer_all <- vocab_vectorizer(vocab_pruned_all)
-tcm_all <- create_tcm(
-  it_all, vectorizer_all,
-  skip_grams_window         = WINDOW_SIZE,
-  skip_grams_window_context = "symmetric",
-  weights                   = rep(1, WINDOW_SIZE)
-)
-
-#step 4, fit glove
-glove_all <- GlobalVectors$new(rank = DIM, x_max = 100, learning_rate = 0.05)
-wv_main_all <- glove_all$fit_transform(
-  tcm_all, n_iter = ITERS,
-  convergence_tol = 0.001,
-  n_threads = RcppParallel::defaultNumThreads()
-)
-
-#step 5, extract vectors
-wv_context_all   <- glove_all$components
-word_vectors_all <- wv_main_all + t(wv_context_all)
-```
-
-```{r}
-# GloVe dimension reduction
-glove_umap <- umap(
-  word_vectors_all,
-  n_components = 2,
-  metric       = "cosine",
-  n_neighbors  = 15,
-  min_dist     = 0.1,
-  spread       = 2
-)
-
-# Put results in a dataframe for ggplot
-df_glove_umap <- as.data.frame(glove_umap$layout)
-df_glove_umap$word <- rownames(word_vectors_all)
-colnames(df_glove_umap) <- c("UMAP1", "UMAP2", "word")
-
-# Plot the UMAP dimensions
-ggplot(df_glove_umap) +
-  geom_point(aes(x = UMAP1, y = UMAP2), colour = "blue", size = 0.05) +
-  labs(title = "UMAP projection of word embeddings in parliamentary discourse") +
-  theme_tufte(base_family = "Helvetica") +
-  theme(plot.title = element_text(hjust = 0.5))
-
-```
-
 ```{r}
 # Load your saved vectors
 word_vectors_early <- readRDS("glove_early.rds")
@@ -804,65 +757,172 @@ cosine_table <- data.frame(
   mutate(Change = round(Late - Early, 3),
          Change = ifelse(Change > 0, paste0("+", Change), as.character(Change)))
 
-kable(cosine_table,
+knitr::kable(cosine_table,
       col.names = c("Term Pair", "Early (2019-2021)", 
                     "Late (2022-2026)", "Change"),
-      caption = "Table 3: Cross-term cosine similarity across periods",
-      align = c("l", "c", "c", "c")) %>%
-  kable_styling(bootstrap_options = c("striped", "hover"),
-                full_width = FALSE,
-                position = "center") %>%
-  row_spec(0, bold = TRUE) %>%
-  column_spec(1, bold = TRUE) %>%
-  footnote(general = "Cosine similarity ranges from -1 to 1; higher values indicate greater semantic proximity.",
-           general_title = "Note:")
+      caption = "Table 5: Cross-term cosine similarity across periods",
+      align = c("l", "c", "c", "c"))
 
 ```
-
 
 ```{r}
 #word frequency table
 # Get all four terms at once
 terms <- c("bno", "bnos", "hongkongers")
 
+#calculating the percentage of each words from each corpus
 vocab_pruned_early[vocab_pruned_early$term %in% terms, ]
 vocab_pruned_late[vocab_pruned_late$term %in% terms, ]
 ```
 
 ```{r}
-#visualise
-library(kableExtra)
+#visualise of 4 terms
 
 freq_table <- data.frame(
   Term = c("BNO", "BNOs", "Hongkongers"),
   Early_term = c(324, 97, 88),
-  Early_doc = c(184, 67, 55),
   Late_term = c(504, 56, 404),
-  Late_doc = c(228, 48, 169)
+  ToTal_term = c(828, 153, 492)
 )
 
-kable(freq_table,
-      col.names = c("Term", "Term count", "Doc count", 
-                    "Term count", "Doc count"),
+knitr::kable(freq_table,
+      col.names = c("Term", 
+                    "Early term count",  
+                    "Late term count", 
+                    "Total term count"),
       caption = "Table 2: Term frequencies across periods",
-      align = c("l", "c", "c", "c", "c")) %>%
-  kable_styling(bootstrap_options = c("striped", "hover"),
-                full_width = FALSE,
-                position = "center") %>%
-  add_header_above(c(" " = 1,
-                     "Early (2019–2021)" = 2,
-                     "Late (2022–2026)" = 2)) %>%
-  row_spec(0, bold = TRUE) %>%
-  row_spec(2, background = "#f5f5f5") %>%
-  column_spec(1, bold = TRUE) %>%
-  footnote(general = "Term count = total occurrences; Doc count = number of speeches containing term.",
-           general_title = "Note:")
+      align = c("l", "c", "c", "c"))
+```
+
+
+
+
+```{r}
+#Full corpus — train on all speeches
+#step 1, shuffling
+set.seed(42L)
+text_all <- sample(hansard_parsed$speech)
+
+#step 2, create vocab
+tokens_all       <- space_tokenizer(text_all)
+it_all           <- itoken(tokens_all, progressbar = FALSE)
+vocab_all        <- create_vocabulary(it_all)
+vocab_pruned_all <- prune_vocabulary(vocab_all, term_count_min = COUNT_MIN)
+
+#step 3, Create TCM
+vectorizer_all <- vocab_vectorizer(vocab_pruned_all)
+tcm_all <- create_tcm(
+  it_all, vectorizer_all,
+  skip_grams_window         = WINDOW_SIZE,
+  skip_grams_window_context = "symmetric",
+  weights                   = rep(1, WINDOW_SIZE)
+)
+
+#step 4, fit glove
+glove_all <- GlobalVectors$new(rank = DIM, x_max = 100, learning_rate = 0.05)
+wv_main_all <- glove_all$fit_transform(
+  tcm_all, n_iter = ITERS,
+  convergence_tol = 0.001,
+  n_threads = RcppParallel::defaultNumThreads()
+)
+
+#step 5, extract vectors 
+wv_context_all   <- glove_all$components
+word_vectors_all <- wv_main_all + t(wv_context_all)
+```
+
+
+
+```{r}
+# Top 10 nearest neighbours from full corpus model
+#filtering these similar words
+nearest_words(word_vectors_all, "bno", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers", 
+                      "hong", "kong", "kongers", "kongs"))  %>%
+  head(10)
+
+nearest_words(word_vectors_all, "bnos", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers",
+                      "hong", "kong", "kongers", "kongs")) %>%
+  head(10)
+
+nearest_words(word_vectors_all, "hongkongers", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers",
+                      "hong", "kong", "kongers", "kongs")) %>%
+  head(10)
 ```
 
 ```{r}
-#keyword-in-context to check the meaning og watch in Hong Kong finding
-library(quanteda)
+#visualisation 
+# Get neighbours
+bno_all_nn <- nearest_words(word_vectors_all, "bno", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers",  #filtering these words
+                      "hong", "kong", "kongers", "kongs")) %>%
+  head(10)
 
+bnos_all_nn <- nearest_words(word_vectors_all, "bnos", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers",
+                      "hong", "kong", "kongers", "kongs", "west")) %>%
+  head(10)
+
+hk_all_nn <- nearest_words(word_vectors_all, "hongkongers", n = 20) %>%
+  filter(!word %in% c("bno", "bnos", "hongkongers",
+                      "hong", "kong", "kongers", "kongs", "young")) %>%
+  head(10)
+
+# Build summary table - word compatable 
+knitr::kable(
+  data.frame(
+    Term = c("BNO", "BNOs", "Hongkongers"),
+    Example_Neighbours = c(
+      paste(head(bno_all_nn$word, 4), collapse = ", "), #only first 4
+      paste(head(bnos_all_nn$word, 4), collapse = ", "),
+      paste(head(hk_all_nn$word, 4), collapse = ", ")
+    ),
+    Semantic_Register = c(
+      "Bureaucratic/procedural", #naming after mannual check
+      "Political advocacy",
+      "Social/civic"
+    )
+  ),
+  col.names = c("Term", "Most salient neighbours", "Semantic register"),
+  caption = "Table 3: Semantic neighbourhood summary (full corpus)",
+  align = c("l", "l", "l")
+)
+```
+
+
+```{r}
+# From full corpus model - calculating the consine similarity
+cosine_sim(word_vectors_all["bno", ], word_vectors_all["bnos", ])
+cosine_sim(word_vectors_all["bno", ], word_vectors_all["hongkongers", ])
+cosine_sim(word_vectors_all["bnos", ], word_vectors_all["hongkongers", ])
+```
+
+```{r}
+#visualise the cosine similarity (whole corpus)
+cosine_whole <- data.frame(
+  Comparison = c("BNO ~ Hongkongers", 
+                 "BNOs ~ Hongkongers",
+                 "BNOs ~ BNO"),
+Cosine_Similarity = c(
+    round(cosine_sim(word_vectors_all["bno", ], word_vectors_all["bnos", ]), 3),
+    round(cosine_sim(word_vectors_all["bno", ], word_vectors_all["hongkongers", ]), 3),
+    round(cosine_sim(word_vectors_all["bnos", ], word_vectors_all["hongkongers", ]), 3)
+  )
+)
+
+knitr::kable(cosine_whole,
+             col.names = c("Term Pair", "Cosine Similarity"),
+             caption = "Table 4: Semantic similarity between key terms (full corpus)",
+             align = c("l", "c"))
+```
+
+
+
+```{r}
+#Validation
+#keyword-in-context to check the meaning of watch in Hong Kong finding
 # Split into periods first
 hansard_late <- hansard_parsed %>% 
   filter(date >= as.Date("2022-01-01"))
@@ -872,6 +932,32 @@ corpus_late_q <- corpus(hansard_late, text_field = "speech")
 tokens_late_q <- tokens(corpus_late_q)
 
 # KWIC result
-kwic(tokens_late_q, pattern = "watch", window = 5)
+kwic_result <- kwic(tokens_late_q, pattern = "watch", window = 5)
+knitr::kable(as.data.frame(kwic_result), caption = "KWIC: 'watch' in Hong Kong speeches (2022+)")
+```
+
+```{r}
+# keyword-in-context to check the meaning of watch in Hong Kong finding
+# Create quanteda corpus and tokens
+corpus_all_q <- corpus(hansard_parsed, text_field = "speech")
+tokens_all_q <- tokens(corpus_all_q)
+
+# KWIC - Hongkongers
+kwic_hk <- kwic(tokens_all_q, pattern = "Hongkongers", window = 5)
+knitr::kable(as.data.frame(kwic_hk), caption = "KWIC: Hongkongers")
+
+# Check frequency - families
+families_filtered <- kwic(tokens_all_q, pattern = "families", window = 5) |>
+  as.data.frame() |>
+  subset(grepl("hongkongers|bno|hong kong", pre, ignore.case = TRUE) | 
+         grepl("hongkongers|bno|hong kong", post, ignore.case = TRUE))
+knitr::kable(families_filtered[, c("pre", "keyword", "post")], caption = "KWIC: families")
+
+# Check frequency - campaigning
+campaigning_filtered <- kwic(tokens_all_q, pattern = "campaigning", window = 15) |>
+  as.data.frame() |>
+  subset(grepl("bnos|bno|hongkongers", pre, ignore.case = TRUE) | 
+         grepl("bnos|bno|hongkongers", post, ignore.case = TRUE))
+knitr::kable(campaigning_filtered[, c("pre", "keyword", "post")], caption = "KWIC: campaigning")
 ```
 
