@@ -1,0 +1,1948 @@
+Nationality and Borders Bill (Fifteenth sitting)
+
+The Committee consisted of the following Members:
+
+Chairs: †Sir Roger Gale, Siobhain McDonagh
+
+† Anderson, Stuart (Wolverhampton South West) (Con)
+
+† Baker, Duncan (North Norfolk) (Con)
+
+† Blomfield, Paul (Sheffield Central) (Lab)
+
+† Charalambous, Bambos (Enfield, Southgate) (Lab)
+
+† Coyle, Neil (Bermondsey and Old Southwark) (Lab)
+
+† Goodwill, Mr Robert (Scarborough and Whitby) (Con)
+
+† Gullis, Jonathan (Stoke-on-Trent North) (Con)
+
+† Holmes, Paul (Eastleigh) (Con)
+
+† Howell, Paul (Sedgefield) (Con)
+
+† Lynch, Holly (Halifax) (Lab)
+
+McLaughlin, Anne (Glasgow North East) (SNP)
+
+† McDonald, Stuart C. (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)
+
+† Owatemi, Taiwo (Coventry North West) (Lab)
+
+† Pursglove, Tom (Parliamentary Under-Secretary of State for the Home Department)
+
+† Richards, Nicola (West Bromwich East) (Con)
+
+† Whittaker, Craig (Lord Commissioner of Her Majesty’s Treasury)
+
+† Wood, Mike (Dudley South) (Con)
+
+Rob Page, Sarah Thatcher, Committee Clerks
+
+† attended the Committee
+
+Public Bill Committee
+
+Thursday 4 November 2021
+
+(Morning)
+
+[Sir Roger Gale in the Chair]
+
+Nationality and Borders Bill
+
+11:30:00
+
+The Chair
+Good morning, ladies and gentlemen. We enter the final lap. I have the usual announcements: electronic devices off, please, and no food or drink. Mr Speaker requests that Members wear face coverings as a courtesy to others; they are for the protection of others, not for the protection of yourself. I am not a terribly good example, but I cannot breathe with a mask on. Hon. Members are also asked to take covid lateral flow tests twice a week if coming on to the estate. I do not know whether hon. Members have done that; it might be a good thing to do before we depart for a week. Finally, Hansard would appreciate speaking notes.
+
+New Clause 6
+
+Expedited appeals: joining of related appeals
+
+“(1) For the purposes of this section, an ‘expedited section 82 appeal’ is an expedited appeal within the meaning of section 82A of the Nationality, Immigration and Asylum Act 2002 (expedited appeals for claims brought on or after PRN cut-off date).
+
+(2) For the purposes of this section, a ‘related appeal’ is an appeal under any of the following—
+
+(a) section 82(1) of the Nationality, Immigration and Asylum Act 2002 (appeals in respect of protection and human rights claims), other than one which is an expedited section 82 appeal;
+
+(b) section 40A of the British Nationality Act 1981 (appeal against deprivation of citizenship);
+
+(c) the Immigration (Citizens’ Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61) (appeal rights in respect of EU citizens’ rights immigration decisions etc);
+
+(d) regulation 36 of the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (appeals against EEA decisions) as it continues to have effect following its revocation.
+
+(3) If a person brings an expedited section 82 appeal at a time when a related appeal brought by that person is pending, the related appeal is, from that time, to be continued as an appeal to the Upper Tribunal and accordingly is to be transferred to the Upper Tribunal.
+
+(4) If an expedited section 82 appeal brought by a person is pending, any right that the person would otherwise have to bring a related appeal to the First-tier Tribunal is instead a right to bring it to the Upper Tribunal.
+
+(5) A related appeal within subsection (3) or brought to the Upper Tribunal as mentioned in (4) is referred to in this section as an ‘expedited related appeal’.
+
+(6) Tribunal Procedure Rules must make provision with a view to securing that the Upper Tribunal consolidates an expedited related appeal and the expedited section 82 appeal concerned or hears them together (and see section 82A(4) of the Nationality, Immigration and Asylum Act 2002).
+
+(7) Tribunal Procedure Rules must secure that the Upper Tribunal may, if it is satisfied that it is in the interests of justice in the case of a particular expedited related appeal to do so, order that the appeal is to be continued as an appeal to the First-tier Tribunal and accordingly is to be transferred to that Tribunal.
+
+(8) For the purposes of this section, an appeal is ‘pending’—
+
+(a) in the case of an appeal under section 82 of the Nationality, Immigration and Asylum Act 2002 (including an expedited section 82 appeal), if it is pending within the meaning of section 104 of that Act;
+
+(b) in the case of an appeal under section 40A of the British Nationality Act 1981, during the period—
+
+(i) beginning when it is instituted, and
+
+(ii) ending when it is finally determined or withdrawn;
+
+(c) in the case of an appeal under the Immigration Citizens’ Rights Appeals (EU Exit) Regulations 2020, if it is pending within the meaning of regulation 13 of those Regulations;
+
+(d) in the case of an appeal under the regulation 36 of the Immigration (European Economic Area) Regulations 2016, if it is pending within the meaning of Part 6 of those Regulations (see regulation 35).
+
+(9) In section 13(8) of the Tribunals, Courts and Enforcement Act 2007 (decisions excluded from right to appeal to the Court of Appeal), after paragraph (bza) (inserted by section 21) insert—
+
+‘(bzb) any decision of the Upper Tribunal on an expedited related appeal within the meaning given by section (Expedited appeals: joining of related appeals) of the Nationality and Borders Act 2021 (expedited appeals against refusal of protection claim or human rights claim: joining of related appeals),’.”—(Tom Pursglove.)
+
+This new clause (to be inserted after clause 21) provides that where a person brings an appeal under section 82 of the Nationality, Immigration and Asylum Act 2002 that is subject to the expedited procedure under the new section 82A of that Act, certain other appeals brought by that person are also to be subject to the expedited procedure.
+
+Brought up, and read the First time.
+
+The Parliamentary Under-Secretary of State for the Home Department (Tom Pursglove)
+I beg to move, That the clause be read a Second time.
+
+The new clause would be inserted after clause 21. It forms part of a package of measures that will enable the swift removal of those who have no right to be in the UK. It complements clause 21 by ensuring that individuals cannot utilise the appeals system as a tool to delay their removal from the UK.
+
+Frequently, those facing removal or deportation from the UK utilise delay tactics, such as late claims and repeated appeals, to thwart removal action. That leads to unnecessary costs to the taxpayer and an increased burden on the court and tribunals system. Clause 21 addresses that issue by creating a new expedited appeal for late human rights or protection claims brought by recipients of a priority removal notice, as provided by clause 18. Expedited appeals will be determined quickly, and the decisions of the upper tribunal will be final. Therefore, clause 21 removes the incentive for bringing claims late and protects the appeal system from abuse.
+
+However, there may be additional appeal rights generated by other claims that individuals may seek to exercise in parallel with an expedited appeal. Such additional appeals would usually be heard in the first tier tribunal. Consequently, an expedited appeal may conclude while an individual has an outstanding appeal in the first tier tribunal, which would prevent their removal from the UK.
+
+New clause 6 enables other appeals in the first tier tribunal brought by a person with an expedited appeal to be heard and determined by the upper tribunal alongside the expedited appeal. That will ensure that, following the conclusion of the expedited process, final determination will have been made on the appellant’s right to remain in the UK and, where the upper tribunal decides that they have no right to remain, removal action can take place.
+
+Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)
+I welcome the Minister back to his place. I do not follow the logic of the new clause at all. If somebody is trying to play the system—and I do not like talking in those terms—surely all they need to do is not make a late claim in terms of the PRN notice; then, their existing appeal would proceed normally, with onward rights of appeal and so on. This proposal just does not make sense, even if we accept the Government’s logic, which I do not.
+
+Tom Pursglove
+The point is exactly as I have set out: in the immigration system, we see repeated appeals deliberately designed to frustrate the system, and the new clause is an appropriate way, with appropriate safeguards, to ensure that the tribunal process can handle those appeals appropriately. It makes sense for appeals to be considered together so that attempts to frustrate the removal process cannot happen and cases are determined as quickly as possible. As I say, there are appropriate judicial safeguards in place in the tribunal process to ensure that appeals are heard appropriately and are directed through the appropriate tribunal. I commend the new clause to the Committee.
+
+Stuart C. McDonald
+Briefly, there are two reasons why I do not think this new clause makes any sense at all. First, there is the point that I just alluded to. The danger is that if someone who has a PRN served on them is contemplating disclosing further information or making a claim and the deadline passes, and they are acting in the way that the Minister wants to get at here and trying to “play the system”, they will simply not make that disclosure. Their existing claims will proceed to appeal through the normal channels, to a first tier tribunal with onward appeal rights. So the proposals do not make sense, even by the Government’s own logic. Can the Minister address that?
+
+Secondly, we object to the new clause from a point of principle. The rare occasions when I would accept that an expedited appeals process can be justified are where the justifications relate solely to manifestly unfounded or repeat claims, but that is not what this is about; this is about expediting appeals and rights to appeal, but not because of the substance of the appeal—it has absolutely nothing to do with the merits of the claim or the related appeal at all. So the proposals make no sense from the point of view of principle, as well as being rather illogical.
+
+Bambos Charalambous (Enfield, Southgate) (Lab)
+Again, briefly, I agree with everything the Scottish National party spokesperson, the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East, has just said. We do not know at what stage the other appeal will be; it may not be ready to be heard. One problem we have in this country is the delay in the appeals processes because of severe underfunding in our court and tribunal systems, so it seems that the new clause will not work.
+
+The new clause will also cause more problems than it solves. I am not sure that there is a huge problem with multiple outstanding appeals in any event, but the new clause could actually make things worse. If the intention in the Bill is to provide fairness, the new clause will not achieve that, because speeding up an appeal could cause unfairness. So for the reasons outlined by the SNP spokesperson we will not support the new clause.
+
+Tom Pursglove
+The bottom line is that we simply disagree on this matter. Clause 21 ensures that appeals relating to late human rights or protection claims are dealt with expeditiously, with decisions by the upper tribunal being final. This provides appellants with a swift determination of their claim. It also disincentives late claims and seeks to prevent sequential or multiple appeals from being utilised as a tactic to thwart removal.
+
+However, the Government recognise that in certain circumstances an individual may exercise other appeal rights, in parallel with their expedited appeal. This could give rise to a situation whereby a person has an appeal in a first tier tribunal and an expedited appeal in the upper tribunal. Consequently, the expedited appeal may conclude while an individual has an outstanding appeal in a first tier tribunal. If the appellant was unsuccessful in their expedited appeal, the ongoing appeal in the first tier tribunal would prevent their removal from the UK. This outcome is undesirable and undermines the Government’s intention to disincentivise late claims by ensuring that appeals relating to such claims are determined quickly and conclusively.
+
+The new clause ensures that where a person has an expedited appeal, any related appeal will also be subject to the same expedited process. Therefore, following the conclusion of the expedited process, the appellant’s right to remain in the UK will be determined with finality and, where an individual has no right to remain in the UK, removal action can take place. That is the logical and sensible approach that we propose to take.
+
+Question put and agreed to.
+
+New clause 6 accordingly read a Second time, and added to the Bill.
+
+The Chair
+Let me explain the process from now on for about the next 10 minutes. We now come to a sequence of Government new clauses, all of which have been debated already with other clauses or amendments. I shall say to the Minister, “Will the Minister move formally?” The Minister, being obedient, will say, “Moved formally.” The Clerk will then read the title of the clause and I will put the questions that it be read a second time and that it be added to the Bill. I gently suggest to the Opposition that there is not much point in calling a Division on both those questions—you can, but it will take a lot longer. Let us see how we get on.
+
+New Clause 7
+
+Accelerated detained appeals
+
+“(1) In this section ‘accelerated detained appeal’ means a relevant appeal (see subsection (6)) brought—
+
+(a) by a person who—
+
+(i) was detained under a relevant detention provision (see subsection (7)) at the time at which they were given notice of the decision which is the subject of the appeal, and
+
+(ii) remains in detention under a relevant detention provision, and
+
+(b) against a decision that—
+
+(i) is of a description prescribed by regulations made by the Secretary of State, and
+
+(ii) when made, was certified by the Secretary of State under this section.
+
+(2) The Secretary of State may only certify a decision under this section if the Secretary of State considers that any relevant appeal brought in relation to the decision would likely be disposed of expeditiously.
+
+(3) Tribunal Procedure Rules must secure that the following time limits apply in relation to an accelerated detained appeal—
+
+(a) any notice of appeal must be given to the First-tier Tribunal not later than 5 working days after the date on which the appellant was given notice of the decision against which the appeal is brought;
+
+(b) the First-tier Tribunal must make a decision on the appeal, and give notice of that decision to the parties, not later than 25 working days after the date on which the appellant gave notice of appeal to the tribunal;
+
+(c) any application (whether to the First-tier Tribunal or the Upper Tribunal) for permission to appeal to the Upper Tribunal must be determined by the tribunal concerned not later than 20 working days after the date on which the applicant was given notice of the First-tier Tribunal’s decision.
+
+(4) A relevant appeal ceases to be an accelerated detained appeal on the appellant being released from detention under any relevant detention provision.
+
+(5) Tribunal Procedure Rules must secure that the First-tier Tribunal or (as the case may be) the Upper Tribunal may, if it is satisfied that it is in the interests of justice in a particular case to do so, order that a relevant appeal is to cease to be an accelerated detained appeal.
+
+(6) For the purposes of this section, a ‘relevant appeal’ is an appeal to the First-tier Tribunal under any of the following—
+
+(a) section 82(1) of the Nationality, Immigration and Asylum Act 2002 (appeals in respect of protection and human rights claims);
+
+(b) section 40A of the British Nationality Act 1981 (appeal against deprivation of citizenship);
+
+(c) the Immigration (Citizens’ Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61) (appeal rights in respect of EU citizens’ rights immigration decisions etc);
+
+(d) regulation 36 of the Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (appeals against EEA decisions) as it continues to have effect following its revocation.
+
+(7) For the purposes of this section, a ‘relevant detention provision’ is any of the following—
+
+(a) paragraph 16(1), (1A) or (2) of Schedule 2 to the Immigration Act 1971 (detention of persons liable to examination or removal);
+
+(b) paragraph 2(1), (2) or (3) of Schedule 3 to that Act (detention pending deportation);
+
+(c) section 62 of the Nationality, Immigration and Asylum Act 2002 (detention of persons liable to examination or removal);
+
+(d) section 36(1) of the UK Borders Act 2007 (detention pending deportation).
+
+(8) In this section ‘working day’ means any day except—
+
+(a) a Saturday or Sunday, Christmas Day, Good Friday or 26 to 31 December, and
+
+(b) any day that is a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 in the part of the United Kingdom where the appellant concerned is detained.
+
+(9) Regulations under this section are subject to negative resolution procedure.”—(Tom Pursglove.)
+
+This new clause expands the categories of immigration appeals that can be subject to the accelerated detained appeals process that was introduced by clause 24.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 59
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 9
+Noes: 2
+Question accordingly agreed to.
+
+New clause 7 added to the Bill.
+
+New Clause 8
+
+Prisoners liable to removal from the United Kingdom
+
+“(1) The Criminal Justice Act 2003 is amended as follows.
+
+(2) Section 260 (early removal of prisoners liable to removal from the United Kingdom) is amended as set out in subsections (3) to (8).
+
+(3) For subsections (1) to (2B) substitute—
+
+‘(1) Where a fixed-term prisoner is liable to removal from the United Kingdom, the Secretary of State may remove the prisoner from prison under this section at any time after the prisoner has served the minimum pre-removal custodial period (whether or not the Board has directed the prisoner’s release under this Chapter).
+
+(2) The minimum pre-removal custodial period is the longer of—
+
+(a) one half of the requisite custodial period, and
+
+(b) the requisite custodial period less one year.’
+
+(4) In subsection (2C), for ‘Subsections (1) and (2A) do’ substitute ‘Subsection (1) does’.
+
+(5) In subsection (4), for paragraph (b) substitute—
+
+‘(b) so long as remaining in the United Kingdom, and in the event of a return to the United Kingdom after removal, is liable to be detained in pursuance of his sentence.’
+
+(6) After subsection (4) insert—
+
+‘(4A) Where a person has been removed from prison under this section, a day on which the person has not spent any part of the day in prison or otherwise detained in pursuance of their sentence is not, unless the Secretary of State otherwise directs, to be included—
+
+(a) when determining for the purposes of any provision of this Chapter how much of their sentence they have (or would have) served, or
+
+(b) when determining for the purposes of section 244ZC(2), 244A(2)(b) or 246A(4)(b) the date of an anniversary of a disposal of a reference of the person’s case to the Board (so that the anniversary is treated as falling x days after the actual anniversary, where x is the number of days on which the person has not spent any part of the day in prison or otherwise detained in pursuance of their sentence).
+
+(4B) Where—
+
+(a) before a prisoner’s removal from prison under this section their case had been referred to the Board under section 244ZB(3), 244ZC(2), 244A(2) or 246A(4), and
+
+(b) the person is removed from the United Kingdom before the Board has disposed of the reference,
+
+the reference lapses upon the person’s removal from the United Kingdom (and paragraph 8 of Schedule 19B applies in the event of their return).’
+
+(7) Omit subsection (5).
+
+(8) In subsection (6), for paragraphs (a) to (c) substitute—
+
+‘(a) amend the fraction for the time being specified in subsection (2)(a);
+
+(b) amend the time period for the time being specified in subsection (2)(b).’
+
+(9) For section 261 substitute—
+
+‘261 Removal under section 260 and subsequent return to UK: effect on sentence
+
+Where a person—
+
+(a) has been removed from prison under section 260 on or after the day on which section (Prisoners liable to removal from the United Kingdom) of the Nationality and Borders Act 2021 came into force,
+
+(b) has been removed from the United Kingdom following that removal from prison, and
+
+(c) returns to the United Kingdom,
+
+this Chapter applies to the person with the modifications set out in Schedule 19B.’
+
+(10) In section 263 (concurrent terms), after subsection (2), insert—
+
+‘(2A) Where this section applies, nothing in section 260 authorises the Secretary of State to remove the offender from prison in respect of any of the terms unless and until that section authorises the Secretary of State to do so in respect of each of the others.’
+
+(11) After Schedule 19A, insert the Schedule 19B set out in Schedule (Prisoners returning to the UK: modifications of the Criminal Justice Act 2003).”—(Tom Pursglove.)
+
+This new clause makes changes to the regime in the Criminal Justice Act 2003 relating to the early removal of prisoners, enabling them to be removed at an earlier point in their sentence and while on recall, and providing that if they return to the UK their sentence continues where it left off. It will replace clause 44
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 9
+
+Removals from the UK: visa penalties for uncooperative countries
+
+“(1) The immigration rules may make such visa penalty provision as the Secretary of State considers appropriate in relation to a specified country.
+
+(2) A country may be specified for the purposes of this section if, in the opinion of the Secretary of State—
+
+(a) the government of the country is not cooperating in relation to the return to the country from the United Kingdom of any of its nationals or citizens who require leave to enter or remain in the United Kingdom but do not have it, and
+
+(b) as a result, there are nationals or citizens of the country that the Secretary of State has been unable to return to the country, whether or not others have been returned.
+
+(3) In forming an opinion as to whether a country is cooperating in relation to returns, the Secretary of State must take the following into account—
+
+(a) any arrangements (whether formal or informal) entered into by the government of the country with the United Kingdom government or the Secretary of State with a view to facilitating returns;
+
+(b) the extent to which the government of the country is—
+
+(i) taking the steps that are in practice necessary or expedient in relation to facilitating returns, and
+
+(ii) doing so promptly;
+
+(c) such other matters as the Secretary of State considers appropriate.
+
+(4) In determining whether to specify a country for the purposes of this section, the Secretary of State must take the following into account—
+
+(a) the length of time for which the government of the country has not been cooperating in relation to returns;
+
+(b) the extent of the lack of cooperation;
+
+(c) the reasons for the lack of cooperation;
+
+(d) such other matters as the Secretary of State considers appropriate.
+
+(5) ‘Visa penalty provision’ is provision that does one or more of the following in relation to applications for entry clearance made by persons as nationals or citizens of a specified country—
+
+(a) requires that entry clearance must not be granted pursuant to such an application before the end of a specified period;
+
+(b) suspends the power to grant entry clearance pursuant to such an application;
+
+(c) requires such an application to be treated as invalid for the purposes of the immigration rules;
+
+(d) requires the applicant to pay £190 in connection with the making of such an application, in addition to any fee or other amount payable pursuant to any other enactment.
+
+(6) The Secretary of State may by regulations substitute a different amount for the amount for the time being specified in subsection (5)(d).
+
+(7) Before making visa penalty provision in relation to a specified country, the Secretary of State must give the government of that country reasonable notice of the proposal to do so.
+
+(8) The immigration rules must secure that visa penalty provision does not apply in relation to an application made before the day on which the provision comes into force.
+
+(9) Visa penalty provision may—
+
+(a) make different provision for different purposes;
+
+(b) provide for exceptions or exemptions, whether by conferring a discretion or otherwise;
+
+(c) include incidental, supplementary, transitional, transitory or saving provision.
+
+(10) Regulations under subsection (6)—
+
+(a) are subject to affirmative resolution procedure if they increase the amount for the time being specified in subsection (5)(d);
+
+(b) are subject to negative resolution procedure if they decrease that amount.
+
+(11) Sums received by virtue of subsection (5)(d) must be paid into the Consolidated Fund.
+
+(12) In this section—
+
+‘cooperating in relation to returns’ means cooperating as mentioned in subsection (2)(a);
+
+‘country’ includes any territory outside the United Kingdom;
+
+‘entry clearance’ has the same meaning as in the Immigration Act 1971 (see section 33(1) of that Act);
+
+‘facilitating returns’ means facilitating the return of nationals or citizens to a country as mentioned in subsection (2)(a);
+
+‘immigration rules’ means rules under section 3(2) of the Immigration Act 1971;
+
+‘specified’ means specified in the immigration rules.”—(Tom Pursglove.)
+
+This new clause enables immigration rules to make provision penalising applicants for entry clearance from countries that are not cooperating with the United Kingdom in relation to the return of their nationals who require leave to enter or remain here but do not have it.
+
+Brought up, and read the First and Second Time.
+
+Question put, That the clause be added to the Bill.
+
+Division 60
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 2
+Question accordingly agreed to.
+
+New clause 9 added to the Bill.
+
+New Clause 10
+
+Visa penalties: review and revocation
+
+“(1) This section applies where any visa penalty provision is in force in relation to a specified country.
+
+(2) The Secretary of State must, before the end of each relevant period—
+
+(a) review the extent to which the country’s cooperation in relation to returns has improved, and
+
+(b) in light of that review, determine whether it is appropriate to amend the visa penalty provision.
+
+(3) If at any time the Secretary of State is no longer of the opinion mentioned in section (Removals from the UK: visa penalties for uncooperative countries)(2), the Secretary of State must as soon as practicable revoke the visa penalty provision.
+
+(4) Each of the following is a relevant period—
+
+(a) the period of 2 months beginning with the day on which the visa penalty provision came into force;
+
+(b) each subsequent period of 2 months.
+
+(5) In this section—
+
+(a) ‘specified country’ and ‘visa penalty provision’ have the same meanings as in section (Removals from the UK: visa penalties for uncooperative countries);
+
+(b) ‘cooperation in relation to returns’ means cooperation as mentioned in subsection (2)(a) of that section.”—(Tom Pursglove.)
+
+This new clause provides for the review of the effectiveness of visa penalty provision made in relation to an uncooperative country under NC9. It also requires the revocation of visa penalty provision if the Secretary of State concludes that the country concerned has demonstrated sufficient cooperation with the UK Government.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 11
+
+Special Immigration Appeals Commission
+
+“(1) The Special Immigration Appeals Commission Act 1997 is amended in accordance with subsections (2) to (4).
+
+(2) After section 2E insert—
+
+‘2F Jurisdiction: review of certain immigration decisions
+
+(1) Subsection (2) applies in relation to any decision of the Secretary of State which—
+
+(a) relates to a person’s entitlement to enter, reside in or remain in the United Kingdom, or to a person’s removal from the United Kingdom,
+
+(b) is not subject—
+
+(i) to a right of appeal, or
+
+(ii) to a right under a provision other than subsection (2) to apply to the Special Immigration Appeals Commission for the decision to be set aside, and
+
+(c) is certified by the Secretary of State acting in person as a decision that was made wholly or partly in reliance on information which, in the opinion of the Secretary of State, should not be made public—
+
+(i) in the interests of national security,
+
+(ii) in the interests of the relationship between the United Kingdom and another country, or
+
+(iii) otherwise in the public interest.
+
+(2) The person to whom the decision relates may apply to the Special Immigration Appeals Commission to set aside the decision.
+
+(3) In determining whether the decision should be set aside, the Commission must apply the principles which would be applied in judicial review proceedings.
+
+(4) If the Commission decides that the decision should be set aside, it may make any such order, or give any such relief, as may be made or given in judicial review proceedings.’
+
+(3) In section 6A (procedure in relation to jurisdiction under sections 2C to 2E)—
+
+(a) in the heading, for ‘2E’ substitute ‘2F’,
+
+(b) in subsection (1), for ‘or 2E’ substitute ‘, 2E or 2F’,
+
+(c) in subsection (2)(a), for ‘or 2E’ substitute ‘, 2E or 2F’, and
+
+(d) in subsection (2)(b), for ‘or (as the case may be) 2E(2)’ substitute ‘, 2E(2) or (as the case may be) 2F (2)’.
+
+(4) In section 7 (appeals from the Commission), in subsection (1A), for ‘or 2E’ substitute ‘, 2E or 2F’.
+
+(5) If subsection (4) comes into force before the day on which paragraph 26(5) of Schedule 9 to the Immigration Act 2014 comes into force, until that day subsection (4) has effect as if, in section 7(1A), for ‘or 2D’ it substituted ‘, 2D or 2F’.
+
+(6) In section 115(8) of the Equality Act 2010 (immigration cases), for ‘section 2D and 2E’ substitute ‘section 2D, 2E or 2F’.”—(Tom Pursglove.)
+
+This new clause enables the Special Immigration Appeals Commission to consider applications to set aside immigration decisions where the Secretary of State certifies that information relating to the decision should not be made public on national security and other grounds.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 12
+
+Counter-terrorism questioning of detained entrants away from place of arrival
+
+“(1) Schedule 7 to the Terrorism Act 2000 (port and border controls) is amended as follows.
+
+(2) In paragraph 1(2) (definitions), in the definition of ‘ship’, after ‘hovercraft’ insert ‘and any floating vessel or structure’.
+
+(3) In paragraph 2 (power to question person about involvement in terrorism in port or border area or on ship or aircraft), after sub-paragraph (3) insert—
+
+‘(3A) This paragraph also applies to a person if—
+
+(a) the person is—
+
+(i) being detained under a provision of the Immigration Acts, or
+
+(ii) in custody having been arrested under paragraph 17(1) of Schedule 2 to the Immigration Act 1971,
+
+(b) the period of 5 days beginning with the day after the day on which the person was apprehended has not yet expired, and
+
+(c) the examining officer believes that—
+
+(i) the person arrived in the United Kingdom by sea from a place outside the United Kingdom, and
+
+(ii) the person was apprehended within 24 hours of the person’s arrival on land.
+
+(3B) For the purposes of sub-paragraph (3A)(b) and (c), a person is “apprehended”—
+
+(a) in a case within sub-paragraph (3A)(a)(i) where the person is arrested (and not released) before being detained as mentioned in that provision, when the person is arrested;
+
+(b) in any other case within sub-paragraph (3A)(a)(i), when the person is first detained as mentioned in that provision;
+
+(c) in a case within sub-paragraph (3A)(a)(ii), when the person is arrested as mentioned in that provision.’”—(Tom Pursglove.)
+
+This new clause (to be inserted after clause 61) enables the power in paragraph 2 of Schedule 7 to the Terrorism Act 2000 (questioning about involvement in terrorism) to be exercised in respect of a person who has arrived in the UK by sea within the past five days and is in immigration detention. It also amends the definition of “ship” in that Schedule.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 19
+
+Notice of decision to deprive a person of citizenship
+
+“(1) In this section, ‘the 1981 Act’ means the British Nationality Act 1981.
+
+(2) In section 40 of the 1981 Act (deprivation of citizenship), after subsection (5) (which requires notice to be given to a person to be deprived of citizenship) insert—
+
+‘(5A) Subsection (5) does not apply if it appears to the Secretary of State that—
+
+(a) the Secretary of State does not have the information needed to be able to give notice under that subsection,
+
+(b) it would for any other reason not be reasonably practicable to give notice under that subsection, or
+
+(c) notice under that subsection should not be given—
+
+(i) in the interests of national security,
+
+(ii) in the interests of the relationship between the United Kingdom and another country, or
+
+(iii) otherwise in the public interest.
+
+(5B) In subsection (5A), references to giving notice under subsection (5) are to giving that notice in accordance with such regulations under section 41(1)(e) as for the time being apply.’
+
+(3) In section 40A of the 1981 Act (appeals against deprivation of citizenship), for subsection (1) substitute—
+
+‘(1) A person—
+
+(a) who is given notice under section 40(5) of a decision to make an order in respect of the person under section 40, or
+
+(b) in respect of whom an order under section 40 is made without the person having been given notice under section 40(5) of the decision to make the order,
+
+may appeal against the decision to the First-tier Tribunal.’
+
+(4) In the British Nationality (General) Regulations 2003 (S.I. 2003/548), in regulation 10 (notice of proposed deprivation of citizenship), omit paragraph (4).
+
+(5) A failure to comply with the duty under section 40(5) of the 1981 Act in respect of a pre-commencement deprivation order does not affect, and is to be treated as never having affected, the validity of the order.
+
+(6) In subsection (5), ‘pre-commencement deprivation order’ means an order made or purportedly made under section 40 of the 1981 Act before the coming into force of subsections (2) to (4) (whether before or after the coming into force of subsection (5)).
+
+(7) A person may appeal against an order to which subsection (5) applies as if notice of the decision to make the order had been given to the person under section 40(5) of the 1981 Act on the day on which the order was made or purportedly made.”—(Tom Pursglove.)
+
+This new clause (to be inserted after clause 8) provides for the disapplication of the requirement to give notice of a decision to deprive a person of citizenship in certain circumstances, and for any failure to give the required notice not to affect the validity of pre-commencement deprivations of citizenship.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 20
+
+Working in United Kingdom waters: arrival and entry
+
+“(1) After section 11 of the Immigration Act 1971 (construction of references to entry etc) insert—
+
+‘11A Working in United Kingdom waters
+
+(1) An “offshore worker” is a person who arrives in United Kingdom waters—
+
+(a) for the purpose of undertaking work in those waters, and
+
+(b) without first entering the United Kingdom (see, in particular, section 11(1)).
+
+But see subsection (6).
+
+(2) An offshore worker arrives in the United Kingdom for the purposes of this Act when they arrive in United Kingdom waters as mentioned in subsection (1)(a).
+
+(3) An offshore worker enters the United Kingdom for the purposes of this Act when they commence working in United Kingdom waters.
+
+(4) Any reference in, or in a provision made under, the Immigration Acts to a person arriving in or entering the United Kingdom, however expressed, is to be read as including a reference to an offshore worker arriving in or entering the United Kingdom as provided for in subsection (2) or (3).
+
+(5) References in this section to work, or to a person working, are to be read in accordance with section 24B(10).
+
+(6) A person is not an offshore worker if they arrive in United Kingdom waters while working as a member of the crew of a ship that is—
+
+(a) exercising the right of innocent passage through the territorial sea or the right of transit passage through straits used for international navigation, or
+
+(b) passing through United Kingdom waters from non-UK waters to a place in the United Kingdom or vice versa.
+
+(7) For the purposes of any provision of, or made under, the Immigration Acts, a person working in United Kingdom waters who, in connection with that work, temporarily enters non-UK waters is not to be treated by virtue of doing so as leaving, or being outside, the United Kingdom.
+
+(8) In this section—
+
+“non-UK waters” means the sea beyond the seaward limits of the territorial sea;
+
+“right of innocent passage”, “right of transit passage” and “straits used for international navigation” are to be read in accordance with the United Nations Convention on the Law of the Sea 1982 (Cmnd 8941) and any modifications of that Convention agreed after the passing of the Nationality and Borders Act 2021 that have entered into force in relation to the United Kingdom;
+
+“the territorial sea” means the territorial sea adjacent to the United Kingdom;
+
+“United Kingdom waters” means the sea and other waters within the seaward limits of the territorial sea.
+
+11B Offshore workers: requirements to notify arrival and entry dates etc
+
+(1) The Secretary of State may by regulations make provision for and in connection with requiring—
+
+(a) an offshore worker, or
+
+(b) if an offshore worker has one, their sponsor;
+
+to give notice to the Secretary of State or an immigration officer of the dates on which the offshore worker arrives in, enters and leaves the United Kingdom.
+
+(2) The regulations may make provision for the failure of an offshore worker to comply with a requirement imposed under the regulations to be a ground for—
+
+(a) the cancellation or variation of their leave to enter or remain in the United Kingdom;
+
+(b) refusing them leave to enter or remain in the United Kingdom.
+
+(3) The failure of an offshore worker’s sponsor to comply with a requirement imposed under the regulations may be taken into account by the Secretary of State when operating immigration skills arrangements made with the sponsor.
+
+(4) Regulations under this section—
+
+(a) are to be made by statutory instrument;
+
+(b) may make different provision for different cases;
+
+(c) may make incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(5) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) For the purposes of this section—
+
+(a) “offshore worker” and “United Kingdom waters” have the same meaning as in section 11A;
+
+(b) a person is an offshore worker’s “sponsor” if they have made immigration skills arrangements with the Secretary of State in relation to the offshore worker;
+
+(c) “immigration skills arrangements” has the meaning given by section 70A(2) of the Immigration Act 2014.’
+
+(2) Schedule (Working in United Kingdom waters: consequential and related amendments) makes consequential and related amendments.”—(Tom Pursglove.)
+
+This new clause ensures that a person who would require leave to enter the United Kingdom also requires leave to enter the internal waters or territorial sea of the United Kingdom where their purpose in doing so is to work.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 21
+
+Electronic travel authorisations
+
+“(1) The Immigration Act 1971 is amended in accordance with subsections (2) to (4).
+
+(2) After Part 1 insert—
+
+‘Part 1A
+
+Electronic travel authorisations
+
+11C Electronic travel authorisations
+
+(1) In this Act, “an ETA” means an authorisation in electronic form to travel to the United Kingdom.
+
+(2) Immigration rules may require an individual of a description specified in the rules not to travel to the United Kingdom from any place (including a place in the common travel area), whether with a view to entering the United Kingdom or to passing through it without entering, unless the individual has an ETA that is valid for the individual’s journey to the United Kingdom.
+
+(3) The rules may not impose this requirement on an individual if—
+
+(a) the individual is a British citizen, or
+
+(b) the individual would, on arrival in the United Kingdom, be entitled to enter without leave.
+
+(4) In relation to an individual travelling to the United Kingdom on a local journey from a place in the common travel area, subsection (3)(b) applies only if the individual would also be entitled to enter without leave if the journey were instead from a place outside the common travel area.
+
+(5) The rules may impose the requirement mentioned in subsection (2) on an individual who—
+
+(a) travels to the United Kingdom on a local journey from a place in any of the Islands, and
+
+(b) has leave to enter or remain in that island,
+
+only if it appears to the Secretary of State necessary to do so by reason of differences between the immigration laws of the United Kingdom and that island.
+
+(6) The rules must—
+
+(a) provide for the form or manner in which an application for an ETA may be made, granted or refused;
+
+(b) specify the conditions (if any) which must be met before an application for an ETA may be granted;
+
+(c) specify the grounds on which an application for an ETA must or may be refused;
+
+(d) specify the criteria to be applied in determining—
+
+(i) the period for which an ETA is valid;
+
+(ii) the number of journeys to the United Kingdom during that period for which it is valid (which may be unlimited);
+
+(e) require an ETA to include provision setting out the matters mentioned in paragraph (d)(i) and (ii);
+
+(f) provide for the form or manner in which an ETA may be varied or cancelled;
+
+(g) specify the grounds on which an ETA must or may be varied or cancelled.
+
+(7) The rules may also—
+
+(a) provide for exceptions to the requirement described in subsection (2), and
+
+(b) make other provision relating to ETAs.
+
+(8) Rules made by virtue of this section may make different provision for different cases or descriptions of case.
+
+11D Electronic travel authorisations and the Islands
+
+(1) The Secretary of State may by regulations make provision about the effects in the United Kingdom of the grant or refusal under the law of any of the Islands of an authorisation in electronic form to travel to that island.
+
+(2) Regulations under subsection (1) may in particular make provision about—
+
+(a) the recognition in the United Kingdom of an authorisation granted as mentioned in subsection (1);
+
+(b) the conditions or limitations that are to apply in the United Kingdom to such an authorisation;
+
+(c) the effects in the United Kingdom of such an authorisation being varied or cancelled under the law of any of the Islands;
+
+(d) the circumstances in which the Secretary of State or an immigration officer may vary or cancel such an authorisation (so far as it applies in the United Kingdom).
+
+(3) The Secretary of State may, where requested to do so by any of the Islands, carry out functions on behalf of that island in relation to the granting of authorisations in electronic form to travel to that island.
+
+(4) Regulations under subsection (1)—
+
+(a) may make provision modifying the effect of any provision of, or made under, this Act or any other enactment (whenever passed or made);
+
+(b) may make different provision for different purposes;
+
+(c) may make transitional, transitory or saving provision;
+
+(d) may make incidental, supplementary or consequential provision.
+
+(5) Regulations under subsection (1) are to be made by statutory instrument.
+
+(6) A statutory instrument containing regulations under subsection (1) is subject to annulment in pursuance of a resolution of either House of Parliament.’
+
+(3) In section 24A (deception), in subsection (1)(a)—
+
+(a) after ‘obtain’ insert ‘— (i)’;
+
+(b) after ‘Kingdom’ insert ‘, or
+
+(ii) an ETA’.
+
+(4) In section 33 (interpretation), in subsection (1), at the appropriate place insert—
+
+‘“an ETA” has the meaning given by section 11C;’.
+
+(5) In section 82 of the Immigration and Asylum Act 1999 (interpretation of Part 5, which relates to immigration advisers and immigration service providers), in subsection (1), in the definition of ‘relevant matters’, after paragraph (a) insert—
+
+‘(aa) an application for an ETA (within the meaning of section 11C of the Immigration Act 1971 (electronic travel authorisations));’.
+
+(6) In section 126 of the Nationality, Immigration and Asylum Act 2002 (compulsory provision of physical data), in subsection (2), before paragraph (a) insert—
+
+‘(za) an ETA (within the meaning of section 11C of the Immigration Act 1971 (electronic travel authorisations)),’.”—(Tom Pursglove.)
+
+This new clause relates to electronic travel authorisations (ETAs). New section 11C of the Immigration Act 1971 provides for immigration rules to require a person not to travel to the United Kingdom without an ETA. New section 11D relates to the Channel Islands and the Isle of Man.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 22
+
+Liability of carriers
+
+“(1) Section 40 of the Immigration and Asylum Act 1999 (liability of carriers in respect of passengers) is amended in accordance with subsections (2) to (8).
+
+(2) For subsection (1) substitute—
+
+‘(1) The Secretary of State may charge the owner of a ship or aircraft the sum of £2,000 where—
+
+(a) an individual who would not, on arrival in the United Kingdom, be entitled to enter without leave arrives by travelling on the ship or aircraft, and
+
+(b) at least one of the Cases set out in subsections (1A) to (1C) applies.
+
+(1A) Case 1 is where, on being required to do so by an immigration officer, the individual fails to produce an immigration document which is valid and which satisfactorily establishes the individual’s identity and the individual’s nationality or citizenship.
+
+(1B) Case 2 is where—
+
+(a) the individual requires an entry clearance,
+
+(b) an entry clearance in electronic form of the required kind has not been granted, and
+
+(c) if required to do so by an immigration officer, the individual fails to produce an entry clearance in documentary form of the required kind.
+
+(1C) Case 3 is where—
+
+(a) the individual was required not to travel to the United Kingdom unless the individual had an authorisation in electronic form (“an ETA”) under immigration rules made by virtue of section 11C of the Immigration Act 1971 that was valid for the individual’s journey to the United Kingdom, and
+
+(b) the individual did not have such an ETA.’
+
+(3) Omit subsection (2).
+
+(4) In subsection (4), for the words from ‘No charge’ to ‘documents’ substitute ‘No charge shall be payable on the basis that Case 1 applies in respect of any individual if the owner provides evidence that the individual produced an immigration document of the kind mentioned in subsection (1A)’.
+
+(5) After subsection (4) insert—
+
+‘(4A) No charge shall be payable on the basis that Case 2 applies in respect of any individual if the owner provides evidence that—
+
+(a) the individual produced an entry clearance in documentary form of the required kind to the owner or an employee or agent of the owner when embarking on the ship or aircraft for the voyage or flight to the United Kingdom,
+
+(b) the owner or an employee or agent of the owner reasonably believed, on the basis of information provided by the Secretary of State in respect of the individual, that the individual did not require an entry clearance of the kind in question,
+
+(c) the owner or an employee or agent of the owner reasonably believed, on the basis of information provided by the Secretary of State, that an entry clearance in electronic form of the required kind had been granted, or
+
+(d) the owner or an employee or agent of the owner was unable to establish whether an entry clearance in electronic form of the required kind had been granted in respect of the individual and had a reasonable excuse for being unable to do so.
+
+(4B) No charge shall be payable on the basis that Case 3 applies in respect of any individual if the owner provides evidence that the owner or an employee or agent of the owner—
+
+(a) reasonably believed, on the basis of information provided by the Secretary of State in respect of the individual, that the individual was not required to have an ETA that was valid for the individual’s journey to the United Kingdom,
+
+(b) reasonably believed, on the basis of information provided by the Secretary of State, that the individual had such an ETA, or
+
+(c) was unable to establish whether the individual had such an ETA and had a reasonable excuse for being unable to do so.’
+
+(6) In subsection (5), for ‘subsection (4)’ substitute ‘subsection (4) or (4A)(a)’.
+
+(7) In subsection (6), for ‘a visa’, in the first two places it occurs, substitute ‘an entry clearance’.
+
+(8) In subsection (10), for ‘subsection (2)’ substitute ‘subsection (1)’.
+
+(9) In consequence of the amendments made by this section—
+
+(a) for the heading of section 40 of the Immigration and Asylum Act 1999 substitute ‘Charge in respect of individual without proper documents or authorisation’;
+
+(b) for the italic heading before section 40 of that Act substitute ‘Individuals without proper documents or authorisation’.”—(Tom Pursglove.)
+
+This new clause relates to the liability of carriers. It modifies when the owner of a ship or aircraft is liable to pay a charge where an individual without leave to enter arrives in the United Kingdom on the ship or aircraft without proper documents or authorisation.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 28
+
+Removals: notice requirements
+
+“(1) Section 10 of the Immigration and Asylum Act 1999 (removal of persons unlawfully in the United Kingdom) is amended as set out in subsections (2) to (6).
+
+(2) In subsection (1)—
+
+(a) for ‘may be removed’ substitute ‘is liable to removal’;
+
+(b) omit ‘under the authority of the Secretary of State or an immigration officer’.
+
+(3) For subsection (2) substitute—
+
+‘(2) Where a person (“P”) is liable to removal, or has been removed, from the United Kingdom under this section, a member of P’s family who meets the following three conditions is also liable to removal from the United Kingdom, provided that the Secretary of State or an immigration officer has given the family member written notice of the fact that they are liable to removal.’
+
+(4) After subsection (6) insert—
+
+‘(6A) A person who is liable to removal from the United Kingdom under this section may be removed only under the authority of the Secretary of State or an immigration officer and in accordance with sections 10A to 10E.’
+
+(5) In subsection (7), for ‘subsection (1) or (2)’ substitute ‘this section’.
+
+(6) In subsection (10)—
+
+(a) in paragraph (a), for ‘subsection (2)’ substitute ‘this section’;
+
+(b) in paragraph (b), at the end insert ‘or sections 10A to 10E’.
+
+(7) After that section insert—
+
+‘10A Removal: general notice requirements
+
+(1) This section applies to a person who is liable to removal under section 10; but see sections 10C to 10E for the circumstances in which such a person may be removed otherwise than in accordance with this section.
+
+(2) The person may be removed if—
+
+(a) the Secretary of State or an immigration officer has given the person—
+
+(i) a notice of intention to remove (see subsection (3)), and
+
+(ii) a notice of departure details (see subsection (4)), and
+
+(b) any notice period has expired.
+
+(3) A notice of intention to remove is a written notice which—
+
+(a) states that the person is to be removed,
+
+(b) sets out the notice period, (see subsection (7)), and
+
+(c) states the destination to which the person is to be removed.
+
+(4) A notice of departure details under this section is a written notice which—
+
+(a) states the date on which the person is to be removed,
+
+(b) states the destination to which the person is to be removed and any stops that are expected to be made on the way to that destination, and
+
+(c) if subsection (6) applies, sets out the notice period (see subsection (7)).
+
+(5) The notice of intention to remove and the notice of departure details may be combined.
+
+(6) This subsection applies if the notice of departure details states, under subsection (4)(b)—
+
+(a) a destination which is different to the destination stated under subsection (3)(c) in the notice of intention to remove, or
+
+(b) any stops that were not stated in the notice of intention to remove, other than a stop in—
+
+(i) the United Kingdom, or
+
+(ii) a country that is for the time being specified in Part 2 of Schedule 3 to the Asylum and Immigration (Treatment of Claimants etc) Act 2004.
+
+(7) The notice period must be no shorter than the period of five working days beginning with the day after the day on which the person is given the notice.
+
+(8) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.
+
+(9) This section is subject to section 10B (failed removals).
+
+(10) In this section “working day” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom where the person is when they are given the notice.
+
+10B Failed removals
+
+(1) This section applies where as a result of matters reasonably beyond the control of the Secretary of State, such as—
+
+(a) adverse weather conditions,
+
+(b) technical faults or other issues causing delays to transport, or
+
+(c) disruption by the person to be removed or others,
+
+a person is not removed from the United Kingdom on the date stated in a notice of departure details under section 10A (“the original notice”).
+
+(2) The person may be removed from the United Kingdom if—
+
+(a) the Secretary of State or an immigration officer has given the person a notice of departure details (see subsection (3)), and
+
+(b) they are removed before the end of the period of 21 days beginning with the date stated in the original notice.
+
+(3) A notice of departure details under this section is a written notice which—
+
+(a) states the date on which the person is to be removed, and
+
+(b) states the destination to which the person is to be removed and any stops that are expected to be made on the way to that destination.
+
+(4) But this section does not apply if the notice under subsection (3) states, under subsection (3)(b)—
+
+(a) a destination which is different to the destination stated in the original notice, or
+
+(b) any stops that were not stated in the original notice, other than a stop in—
+
+(i) the United Kingdom, or
+
+(ii) a country that is for the time being specified in Part 2 of Schedule 3 to the Asylum and Immigration (Treatment of Claimants etc) Act 2004.
+
+(5) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.
+
+10C Removal: notice requirements in port cases
+
+(1) This section applies to a person who is liable to removal under section 10 if the person was refused leave to enter upon their arrival in the United Kingdom.
+
+(2) The person may be removed if—
+
+(a) the Secretary of State or an immigration officer has given the person a notice of departure details under this section which—
+
+(i) states the date on which the person is to be removed, and
+
+(ii) states the destination to which the person is to be removed and any stops that are expected to be made on the way to that destination, and
+
+(b) the date stated under paragraph (a)(i) is a date before the end of the period of seven days beginning with the day after the day on which the person was refused leave to enter.
+
+(3) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.
+
+10D Removal: PRN recipients
+
+(1) This section applies to a person who is liable to removal under section 10 and is a PRN recipient.
+
+(2) If the person does not make a protection claim or a human rights claim before the PRN cut-off date, the person may be removed from the United Kingdom if—
+
+(a) the Secretary of State or an immigration officer has given the person a notice of departure details (see subsection (4)), and
+
+(b) they are removed before the end of the period of 21 days beginning with the day after the PRN cut-off date.
+
+(3) If the PRN recipient makes a protection claim or a human rights claim, the person may be removed from the United Kingdom if—
+
+(a) the Secretary of State or an immigration officer has given the person a notice of departure details (see subsection (4)),
+
+(b) their appeal rights are exhausted, and
+
+(c) they are removed before the end of the period of 21 days beginning with the day after the date on which their appeal rights are exhausted;
+
+and for the purposes of this subsection, whether a PRN recipient’s appeal rights are exhausted is to be determined in accordance with section 19(2) of the Nationality and Borders Act 2021 (and see, in particular, section 82A of the Nationality, Immigration and Asylum Act 2002).
+
+(4) A notice of departure details under this section is a written notice which—
+
+(a) states the date on which the person is to be removed,
+
+(b) states the destination to which the person is to be removed and any stops that are expected to be made on the way to that destination.
+
+(5) But this section does not apply unless the priority removal notice stated—
+
+(a) a destination to which the person is to be removed which is the same as the destination stated in the notice of departure details under subsection (4)(b), and
+
+(b) stops, other than stops falling within subsection (6), that are expected to be made on the way to that destination which are the same as those stated in the notice of departure details under subsection (4)(b).
+
+(6) A stop falls within this subsection if is a stop in—
+
+(a) the United Kingdom, or
+
+(b) a country that is for the time being specified in Part 2 of Schedule 3 to the Asylum and Immigration (Treatment of Claimants etc) Act 2004.
+
+(7) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.
+
+(8) For the purposes of this section and section 10E—
+
+“priority removal notice”, “PRN recipient” and “PRN cut-off date” have the same meaning as in section 18 of the Nationality and Borders Act 2021;
+
+“protection claim” and “human rights claim” have the same meaning as in Part 5 of the Nationality, Immigration and Asylum Act 2002.
+
+10E Removal: judicial review
+
+(1) This section applies to a person (whether or not they are a PRN recipient) who is liable to removal under section 10 where—
+
+(a) the person has made an application for judicial review or (in Scotland) an application to the supervisory jurisdiction of the Court of Session, relating to their removal, and
+
+(b) a court or tribunal has made a decision the effect of which is that the person may be removed from the United Kingdom.
+
+(2) The person may be removed from the United Kingdom if—
+
+(a) the Secretary of State or an immigration officer has given the person a notice of departure details (see subsection (3)), and
+
+(b) they are removed before the end of the period of 21 days beginning with the day after the day on which the court or tribunal made the decision mentioned in subsection (1)(b).
+
+(3) A notice of departure details under this section is a written notice which—
+
+(a) states the date on which the person is to be removed,
+
+(b) states the destination to which the person is to be removed and any stops that are expected to be made on the way to that destination.
+
+(4) But this section does not apply unless the person has received a priority removal notice or a notice of intention to remove under section 10A(3) which stated—
+
+(a) a destination to which the person is to be removed which is the same as the destination stated in the notice of departure details under subsection (3)(b), and
+
+(b) stops, other than stops falling within subsection (5), that are expected to be made on the way to that destination which are the same as those stated in the notice of departure details under subsection (3)(b).
+
+(5) A stop falls within this subsection if is a stop in—
+
+(a) the United Kingdom, or
+
+(b) a country that is for the time being specified in Part 2 of Schedule 3 to the Asylum and Immigration (Treatment of Claimants etc) Act 2004.
+
+(6) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.’
+
+(8) In Schedule 10 to the Immigration Act 2016 (immigration bail), in paragraph 3(4) (bail not to be granted to person subject to removal directions without consent of Secretary of State), in paragraph (b) for ‘14’ substitute ‘21’.”—(Tom Pursglove.)
+
+This new clause sets out the requirements for notice to be given to people who are liable to removal from the United Kingdom.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 29
+
+Interpretation of Part etc
+
+“(1) In this Part, ‘age-disputed person’ means a person—
+
+(a) who requires leave to enter or remain in the United Kingdom (whether or not such leave has been given), and
+
+(b) in relation to whom—
+
+(i) a local authority,
+
+(ii) a public authority specified in regulations under section (Persons subject to immigration control: referral or assessment by local authority etc)(1)(b), or
+
+(iii) the Secretary of State,
+
+has insufficient evidence to be sure of their age.
+
+(2) In this Part—
+
+s‘decision-maker’ means a person who conducts an age assessment under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes);
+
+‘designated person’ means an official of the Secretary of State who is designated by the Secretary of State to conduct age assessments under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes);
+
+‘immigration functions’ means functions exercisable by virtue of the Immigration Acts;
+
+‘immigration officer’ means a person appointed by the Secretary of State as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971;
+
+‘local authority’—
+
+(a) in relation to England and Wales, means a local authority within the meaning of the Children Act 1989 (see section 105(1) of that Act),
+
+(b) in relation to Scotland, means a council constituted under section 2 of the Local Government etc (Scotland) Act 1994, and
+
+(c) in relation to Northern Ireland, means a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1));
+
+‘public authority’ means a public authority within the meaning of section 6 of the Human Rights Act 1998, other than a court or tribunal;
+
+‘specified scientific method’ means a method used for assessing a person’s age which is specified in regulations under section (Use of scientific methods in age assessments)(1).
+
+(3) In this Part, ‘relevant children’s legislation’ means—
+
+(a) in relation to a local authority in England, any provision of or made under Part 3, 4 or 5 of the Children Act 1989 (support for children and families; care and supervision; protection of children);
+
+(b) in relation to a local authority in Wales, Scotland or Northern Ireland, any statutory provision (including a provision passed or made after the coming into force of this Part) that confers a corresponding function on such an authority.
+
+(4) In subsection (3)—
+
+‘corresponding function’ means a function that corresponds to a function conferred on a local authority in England by or under Part 3, 4 or 5 of the Children Act 1989;
+
+‘statutory provision’ means a provision made by or under—
+
+(a) an Act,
+
+(b) an Act of the Scottish Parliament,
+
+(c) an Act or Measure of Senedd Cymru, or
+
+(d) Northern Ireland legislation.
+
+(5) In section 94 of the Immigration and Asylum Act 1999 (support for asylum-seekers: interpretation), for subsection (7) substitute—
+
+‘(7) For further provision as to the conduct of age assessments, which applies for the purposes of this Part, see Part 3A of the Nationality and Borders Act 2021.’”—(Tom Pursglove.)
+
+This new clause, together with amendments NC30 to NC37, will form a new Part (to be inserted between Parts 3 and 4) on age assessments. This clause defines various terms used in the new Part, in particular the term “age-disputed person”, which governs the persons to whom the provisions on age assessments will apply.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 61
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 6
+Question accordingly agreed to.
+
+New clause 29 added to the Bill.
+
+New Clause 30
+
+Persons subject to immigration control: referral or assessment by local authority etc
+
+“(1) The following authorities may refer an age-disputed person to a designated person for an age assessment under this section—
+
+(a) a local authority;
+
+(b) a public authority specified in regulations made by the Secretary of State.
+
+(2) Subsections (3) and (4) apply where—
+
+(a) a local authority needs to know the age of an age-disputed person for the purposes of deciding whether or how to exercise any of its functions under relevant children’s legislation in relation to the person, or
+
+(b) the Secretary of State notifies a local authority in writing that the Secretary of State doubts that an age-disputed person in relation to whom the local authority has exercised or may exercise functions under relevant children’s legislation is the age that they claim (or are claimed) to be.
+
+(3) The local authority must—
+
+(a) refer the age-disputed person to a designated person for an age assessment under this section,
+
+(b) conduct an age assessment on the age-disputed person itself and inform the Secretary of State in writing of the result of its assessment, or
+
+(c) inform the Secretary of State in writing that it is satisfied that the person is the age they claim (or are claimed) to be, without the need for an age assessment.
+
+(4) Where a local authority—
+
+(a) conducts an age assessment itself, or
+
+(b) informs the Secretary of State that it is satisfied that an age-disputed person is the age they claim (or are claimed) to be,
+
+it must, on request from the Secretary of State, provide the Secretary of State with such evidence as the Secretary of State reasonably requires for the Secretary of State to consider the local authority’s decision under subsection (3)(b) or (c).
+
+(5) Where a local authority refers an age-disputed person to a designated person for an age assessment under subsection (1) or (3)(a), the local authority must provide any assistance that the designated person reasonably requires from the authority for the purposes of conducting that assessment.
+
+(6) The standard of proof for an age assessment under this section is the balance of probabilities.
+
+(7) An age assessment of an age-disputed person conducted by a designated person following a referral from a local authority under subsection (1) or (3)(a) is binding—
+
+(a) on the Secretary of State and immigration officers when exercising immigration functions, and
+
+(b) on a local authority that—
+
+(i) has exercised or may exercise functions under relevant children’s legislation in relation to the age-disputed person, and
+
+(ii) is aware of the age assessment conducted by the designated person.
+
+But this is subject to section (Appeals relating to age assessments)(5) (decision of Tribunal to be binding on Secretary of State and local authorities) and section (New information following age assessment or appeal) (new information following age assessment or appeal).
+
+(8) Regulations under subsection (1)(b) are subject to negative resolution procedure.”—(Tom Pursglove.)
+
+This new clause will allow the National Age Assessment Board (whose officials will be “designated persons”) to conduct age assessments on age-disputed persons following referral from a local authority or other public authority, and makes provision as to when local authorities are under a duty to refer such persons to the NAAB or conduct their own assessment.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 62
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 6
+Question accordingly agreed to.
+
+New clause 30 added to the Bill.
+
+New Clause 31
+
+Persons subject to immigration control: assessment for immigration purposes
+
+“(1) A designated person may conduct an age assessment on an age-disputed person for the purposes of deciding whether or how the Secretary of State or an immigration officer should exercise any immigration functions in relation to the person.
+
+(2) An assessment under subsection (1) may be conducted—
+
+(a) in a case where subsections (3) and (4) of section (Persons subject to immigration control: referral or assessment by local authority etc) do not apply, or
+
+(b) in a case where those subsections do apply—
+
+(i) at any time before a local authority has referred the age-disputed person to a designated person under section (Persons subject to immigration control: referral or assessment by local authority etc) (3)(a) or has informed the Secretary of State as mentioned in subsection (3)(b) or (c) of that section, or
+
+(ii) if the Secretary of State has reason to doubt a local authority’s decision under subsection (3)(b) or (c) of that section.
+
+(3) An age assessment under this section is binding on the Secretary of State and immigration officers when exercising immigration functions.
+
+But this is subject to section (Appeals relating to age assessments)(5) (decision of Tribunal to be binding on Secretary of State and local authorities) and section (New information following age assessment or appeal) (new information following age assessment or appeal).
+
+(4) The standard of proof for an age assessment under this section is the balance of probabilities.”—(Tom Pursglove.)
+
+This new clause will allow the National Age Assessment Board (whose officials will be “designated persons”) to conduct age assessments on age-disputed persons for immigration purposes, either where no referral has been made or where it disagrees with the local authority’s assessment.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 63
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 6
+Question accordingly agreed to.
+
+New clause 31 added to the Bill.
+
+New Clause 32
+
+Use of scientific methods in age assessments
+
+“(1) The Secretary of State may make regulations specifying scientific methods that may be used for the purposes of age assessments under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes).
+
+(2) The types of scientific method that may be specified include methods involving—
+
+(a) examining or measuring parts of a person’s body, including by the use of imaging technology;
+
+(b) the analysis of saliva, cell or other samples taken from a person (including the analysis of DNA in the samples).
+
+(3) A method may not be specified in regulations under subsection (1) unless the Secretary of State determines, after having sought scientific advice, that the method is appropriate for assessing a person’s age.
+
+(4) A specified scientific method may be used for the purposes of an age assessment under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes) only if the appropriate consent is given.
+
+(5) The appropriate consent is—
+
+(a) where the age-disputed person has the capacity to consent to the use of the scientific method in question, their consent;
+
+(b) where the age-disputed person does not have the capacity to consent to the use of the scientific method in question, the consent of—
+
+(i) the person’s parent or guardian, or
+
+(ii) another person, of a description specified in regulations made by the Secretary of State, who is able to give consent on behalf of the age-disputed person.
+
+(6) Subsection (7) applies where—
+
+(a) the age-disputed person or, in a case where the age-disputed person lacks capacity, a person mentioned in subsection (5)(b), decides not to consent to the use of a specified scientific method, and
+
+(b) there are no reasonable grounds for that decision.
+
+(7) In deciding whether to believe any statement made by or on behalf of the age-disputed person that is relevant to the assessment of their age, the decision-maker must take into account, as damaging the age-disputed person’s credibility (or the credibility of a person who has made a statement on their behalf), the decision not to consent to the use of the specified scientific method.
+
+(8) Regulations under this section are subject to affirmative resolution procedure.
+
+(9) This section does not prevent the use of a scientific method that is not a specified scientific method for the purposes of an age assessment under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes) if the decision-maker considers it appropriate to do so and, where necessary, the appropriate consent is given.”—(Tom Pursglove.)
+
+This new clause provides for use of scientific methods in age assessments. If a person refuses to consent to a method specified in regulations, this may damage their credibility. Before a method can be specified, it must be considered appropriate, on the basis of scientific advice. Other (non-specified) scientific methods may be used in appropriate circumstances, but failure to consent to those would not affect credibility.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 64
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 6
+Question accordingly agreed to.
+
+New clause 32 added to the Bill.
+
+New Clause 33
+
+Regulations about age assessments
+
+“(1) The Secretary of State may make regulations about age assessments under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes), which may in particular include provision about—
+
+(a) the processes to be followed, including—
+
+(i) the information and evidence that must be considered and the weight to be given to it,
+
+(ii) the circumstances in which an abbreviated age assessment may be appropriate,
+
+(iii) protections or safeguarding measures for the age-disputed person, and
+
+(iv) where consent is required for the use of a specified scientific method, the processes for assessing a person’s capacity to consent, for seeking consent and for recording the decision on consent;
+
+(b) the qualifications or experience necessary for a person to conduct an age assessment;
+
+(c) where an age assessment includes use of specified scientific methods—
+
+(i) the qualifications or experience necessary for a person to conduct tests in accordance with those methods, and
+
+(ii) the settings in which such tests must be carried out;
+
+(d) the content and distribution of reports on age assessments;
+
+(e) the communication of decisions to the age-disputed person and any other person affected by the decision, and notification of appeal rights (see section (Appeals relating to age assessments)); and
+
+(f) the consequences of a lack of co-operation with the assessment by the age-disputed person, which may include damage to the person’s credibility.
+
+(2) The regulations may also include provision about—
+
+(a) referrals under section (Persons subject to immigration control: referral or assessment by local authority etc)(1) or (3)(a), including the process for making such a referral and about the withdrawal of a referral;
+
+(b) how and when a local authority must inform the Secretary of State as mentioned in section (Persons subject to immigration control: referral or assessment by local authority etc)(3)(b) and (c);
+
+(c) evidence that the Secretary of State may require as mentioned in section (Persons subject to immigration control: referral or assessment by local authority etc)(4).
+
+(3) Regulations under this section are subject to affirmative resolution procedure.”—(Tom Pursglove.)
+
+This new clause enables the Secretary of State to make regulations about how age assessments under amendments NC30 and NC31 must be conducted. Once such regulations have been made, all such assessments must be conducted in accordance with them.
+
+Brought up, and read the First and Second time.
+
+Question put, That the clause be added to the Bill.
+
+Division 65
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 10
+Noes: 6
+Question accordingly agreed to.
+
+New clause 33 added to the Bill.
+
+New Clause 34
+
+Appeals relating to age assessments
+
+“(1) This section applies if—
+
+(a) an age assessment is conducted on an age-disputed person (“P”) under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes), and
+
+(b) the decision-maker decides that P is an age other than the age that P claims (or is claimed) to be.
+
+(2) P may appeal to the First-tier Tribunal against the decision-maker’s decision.
+
+(3) On the appeal, the Tribunal must—
+
+(a) determine P’s age on the balance of probabilities, and
+
+(b) assign a date of birth to P.
+
+(4) In making the determination, the Tribunal may consider any matter which it thinks relevant, including—
+
+(a) any matter of which the decision-maker was unaware, and
+
+(b) any matter arising after the date of the decision appealed against.
+
+(5) A determination on an appeal under subsection (2) is binding—
+
+(a) on the Secretary of State and immigration officers when exercising immigration functions in relation to P, and
+
+(b) on a local authority that has exercised or may exercise functions under relevant children’s legislation in relation to P.
+
+(6) This section is subject to—
+
+(a) section (Appeals relating to age assessments: supplementary) (appeals relating to age assessments: supplementary), and
+
+(b) section (New information following age assessment or appeal) (new information following age assessment or appeal).”—(Tom Pursglove.)
+
+This new clause provides a right of appeal to the First-tier Tribunal against an age assessment conducted by the NAAB or a local authority.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 35
+
+Appeals relating to age assessments: supplementary
+
+“(1) This section applies to an appeal under section (Appeals relating to age assessments)(2).
+
+(2) The appeal must be brought from within the United Kingdom.
+
+(3) If the person who brings the appeal leaves the United Kingdom before the appeal is finally determined, the appeal is to be treated as abandoned.
+
+(4) The person who brings the appeal may make an application to the First-tier Tribunal for an order that, until the appeal is finally determined, withdrawn or abandoned, the local authority must exercise its functions under relevant children’s legislation in relation to the person on the basis that they are the age that they claim (or are claimed) to be.
+
+(5) Subsection (6) applies if it is alleged—
+
+(a) that a document relied on by a party to an appeal is a forgery, and
+
+(b) that disclosure to that party of a matter relating to the detection of the forgery would be contrary to the public interest.
+
+(6) The First-tier Tribunal—
+
+(a) must investigate the allegation in private, and
+
+(b) may proceed in private so far as necessary to prevent disclosure of the matter referred to in subsection (5)(b).
+
+(7) Subsection (8) applies in relation to—
+
+(a) proceedings on an appeal, and
+
+(b) proceedings in the Upper Tribunal arising out of proceedings within paragraph (a).
+
+(8) Practice directions under section 23 of the Tribunals, Courts and Enforcement Act 2007 may require the First-tier Tribunal or the Upper Tribunal to treat a specified decision of the First-tier Tribunal or the Upper Tribunal as authoritative in respect of a particular matter.
+
+(9) For the purposes of this Part an appeal is not finally determined if—
+
+(a) an application for permission to appeal under section 11, 13 or 14B of the Tribunals, Courts and Enforcement Act 2007 could be made (ignoring any possibility of an application out of time) or is awaiting determination,
+
+(b) an application for permission to appeal to the Supreme Court from—
+
+(i) the Court of Appeal in England and Wales,
+
+(ii) the Court of Session, or
+
+(iii) the Court of Appeal in Northern Ireland,
+
+could be made (ignoring any possibility of an application out of time) or is awaiting determination,
+
+(c) permission to appeal of the kind mentioned in paragraph (a) or (b) has been granted and the appeal is awaiting determination, or
+
+(d) an appeal has been remitted under section 12 or 14 of the Tribunals, Courts and Enforcement Act 2007, or by the Supreme Court, and is awaiting determination.” —(Tom Pursglove.)
+
+This new clause makes procedural provision about appeals against age assessments, including providing a power for the First-tier Tribunal to grant interim relief.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 36
+
+New information following age assessment or appeal
+
+“(1) This section applies where—
+
+(a) an age assessment has been conducted on an age-disputed person (“P”) under section (Persons subject to immigration control: referral or assessment by local authority etc) or (Persons subject to immigration control: assessment for immigration purposes),
+
+(b) an appeal under section (Appeals relating to age assessments)(2) could no longer be brought (ignoring any possibility of an appeal out of time) or has been finally determined, and
+
+(c) the decision-maker becomes aware of new information relating to P’s age.
+
+(2) In this section, the age assessment referred to in subsection (1)(a) is referred to as the “first age assessment”.
+
+(3) In a case where the first age assessment was conducted by a designated person, they must—
+
+(a) decide whether the new information is significant new evidence, and
+
+(b) if they decide that it is, conduct a further age assessment on P.
+
+(4) In a case where the first age assessment was conducted by a local authority, it must—
+
+(a) decide whether the new information is significant new evidence or refer the new information to a designated person for a decision on that matter, and
+
+(b) if it is decided that the new information is significant new evidence—
+
+(i) conduct a further age assessment on P, or
+
+(ii) refer P to a designated person for a further age assessment.
+
+(5) For the purposes of subsections (3) and (4), new information is “significant new evidence” if there is a realistic prospect that, if a further age assessment were to be conducted on P, taking into account the new information, P’s age would be assessed as different from the age determined in the first age assessment or in the appeal proceedings.
+
+(6) A further age assessment conducted by a designated person under subsection (3) or (4)(b)(ii) is to be treated—
+
+(a) in a case where the first age assessment was conducted under section (Persons subject to immigration control: referral or assessment by local authority etc), as an age assessment conducted by the designated person following a referral under subsection (3)(a) of that section;
+
+(b) in a case where the first age assessment was conducted under section (Persons subject to immigration control: assessment for immigration purposes), as an age assessment conducted under that section.
+
+(7) A further age assessment conducted by a local authority under subsection (4)(b)(i) is to be treated as an age assessment conducted by a local authority under section (Persons subject to immigration control: referral or assessment by local authority etc)(3)(b).
+
+(8) A person conducting a further age assessment under this section does not need to revisit matters that were considered in the first age assessment if they do not think it is necessary to do so.”—(Tom Pursglove.)
+
+This new clause makes provision about the situation where new information comes to light after an age assessment or an appeal, allowing the decision-maker to conduct a further assessment (which would be subject to further appeal) if the information appears compelling.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 37
+
+Legal aid for appeals
+
+“(1) Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (civil legal services) is amended as follows.
+
+(2) In Part 1 (services) after paragraph 31A insert—
+
+‘Appeals relating to age assessments under the Nationality and Borders Act 2021
+
+31B (1) Civil legal services provided in relation to—
+
+(a) an appeal under section (Appeals relating to age assessments)(2) of the Nationality and Borders Act 2021 (appeals relating to age assessments),
+
+(b) an application for an order under section (Appeals relating to age assessments: supplementary)(4) of that Act (order for support to be provided pending final determination of appeal), and
+
+(c) an appeal to the Upper Tribunal, Court of Appeal or Supreme Court relating to an appeal within paragraph (a) or an application within paragraph (b).
+
+Exclusions
+
+(2) Sub-paragraph (1) is subject to the exclusions in Part 2 and 3 of this Schedule.’
+
+(3) In Part 3 (advocacy: exclusions and exceptions), in paragraph 13 (advocacy in proceedings in the First-tier Tribunal), after ‘31A,’ insert ‘31B,’.”—(Tom Pursglove.)
+
+This new clause will enable a person appealing against a decision on an age assessment to get legal aid for their appeal.
+
+Brought up, read the First and Second time, and added to the Bill.
+
+New Clause 1
+
+Afghan Citizens Resettlement Scheme
+
+“(1) The Secretary of State must make regulations setting out the terms of a resettlement scheme for Afghan citizens known as the Afghan Citizens Resettlement Scheme (‘ACRS’).
+
+(2) The ACRS will not place any limit on the number of Afghan citizens who may be resettled in the first year of operation of the ACRS.
+
+(3) Regulations under this section must be made and the ACRS must come into force within 30 days from the date of Royal Assent to this Act.”—(Bambos Charalambous.)
+
+This new clause will place the Afghan Citizens Resettlement Scheme on a statutory footing and lift the 5,000 limit on the scheme.
+
+Brought up, and read the First time.
+
+Bambos Charalambous
+I beg to move, That the clause be read a Second time.
+
+New clause 1 would lift the Afghan citizens resettlement scheme’s limit of 5,000 people per year. The Labour party wants to see the removal of the 5,000 person limit and the opening of safe routes for refugees fleeing the Taliban. In the summer, the humanitarian crisis in Afghanistan captured the world’s attention, as images of thousands of Afghans, desperate but also determined to escape the Taliban’s grip on the country, dominated the media. As the UK has been one of the countries most directly involved in Afghanistan for the last two decades, the British public’s reaction to the refugees’ plight was one of compassion and benevolence. Hundreds offered hospitality, and many more donated support to arriving newcomers.
+
+The Government reacted instantly to the public’s demand for welcome and refuge by announcing the Afghan citizens resettlement scheme, offering refuge in the UK to 5,000 Afghans, up to a total of 20,000 in the long term. The Prime Minister also promised to house a town’s worth of refugees, while the Home Secretary rushed to Heathrow airport—along with news camera crews—to receive some of those airlifted out of Kabul, as the Government launched Operation Warm Welcome.
+
+The Government believe that Britain’s bespoke scheme for Afghan refugees is one of the most generous in the country’s history, and the Home Secretary has argued that it is not possible to take in any more refugees. In truth, the Government’s response to the Afghan catastrophe is hardly generous. The idea of a fixed quota for refugees in such emergencies is meaningless. The figure of 5,000 meets the Government’s political needs rather than the needs of those on the ground in Afghanistan. I note that in the new plan for immigration, the Government seem very happy to welcome up to 5 million Hongkongers via the British national overseas scheme, which I will address later.
+
+Although we welcome the commitment to provide 5,000 places to Afghan refugees through the Afghan citizens resettlement scheme, the scheme appears to be a carbon copy of the Syrian vulnerable persons resettlement scheme. The difference is that while the Syrian scheme placed people who were already in refugee camps in Turkey and Jordan—a position of relative safety that made it easier to process and admit them—in this case, many have fled Afghanistan to neighbouring countries in fear for their lives, or are in hiding in Afghanistan, where they live in fear.
+
+Just yesterday, a constituent of mine, whose sister had run a school teaching girls and had campaigned for free elections and women’s rights in Afghanistan, told me that her sister’s friend had been found and murdered, and that her sister was in hiding with her husband, petrified about what could happen to her. Despite being told by the Foreign Office to go to Kabul airport, some Chevening scholars and people who had helped the British military were prevented from getting on any flights out of the country. The problem is that some of those people who are trapped in Afghanistan are at high risk and may not survive until the end of the year, let alone the four years the scheme is meant to run. The scheme is not even open yet; two months down the line from the fiasco of the chaotic withdrawal from Afghanistan, we are no closer to finding out any details of the scheme.
+
+From what I understand, the Government control who does and does not have access to the scheme, so they will choose who makes it on to the scheme. They also control the numbers, but an arbitrary annual cap of 5,000 people is meaningless and could cost lives if stuck to rigidly. In the Government’s response to the new plan for immigration consultation, the section entitled, “Protecting those fleeing persecution, oppression, and tyranny”, states:
+
+“The Government will pilot an Emergency Resettlement Mechanism, starting in the autumn, to enable refugees in urgent need to be resettled more quickly so that life-saving protection is provided in weeks rather than months. Beyond this, the Government will provide more flexibility to help people in truly exceptional and compelling circumstances by using the Home Secretary’s discretion to provide rapid assistance.”
+
+The Government have failed to live up to those words because life-saving protection was not provided in weeks, but months, and there is no sign of rapid assistance.
+
+If the arbitrary annual limit of 5,000 people is reached, Afghans who helped the UK military and who have been able to escape Afghanistan could arrive seeking protection in the UK only to be treated like criminals for how they have arrived. It is worth noting that the Government’s advice to Afghans was to leave Afghanistan when they ran out of time for flights to the UK in August. Under the Bill, they would be penalised if they came to the UK via irregular routes. That would plainly be wrong and inhumane, and the Government could avoid that by having no cap on the resettlement scheme.
+
+00:00:00
+
+There used to be a time when the Government used the phrase “whatever it takes” about other crises. It would certainly be apt to apply it here. Clearly, it does not apply in the case of Afghans who have clear links to the UK but who are trapped and in fear of their lives, because the Government have been clueless about getting them out. I urge the Minister to agree to the new clause and lift the arbitrary 5,000 person cap on the number of Afghan refugees we can help this year—they have already been badly let down by the Government—because doing so will save lives.
+
+Tom Pursglove
+I thank the hon. Members for Enfield, Southgate and for Halifax for tabling new clause 1 and providing the Committee with this opportunity to consider placing the Afghan citizens resettlement scheme on a statutory footing and lifting the 5,000 person limit for the first year.
+
+The UK has a proud history of supporting those in need of protection, and I understand the concerns that Members of the House have about the plight of people from Afghanistan. During Operation Pitting, the Government and military worked around the clock to airlift about 15,000 people out of Afghanistan—the biggest airlift from a single country for a generation. The Government have relocated thousands of people who loyally served our military in Afghanistan, and we continue to help more.
+
+In addition, the Afghan citizens resettlement scheme is one of the most ambitious resettlement schemes in our country’s history. It will give up to 20,000 people at risk a new life in the UK. Our current schemes are non-legislative, operating outside the immigration rules and on a discretionary basis. Operating in this way has seen us resettle over 25,000 vulnerable people since 2015. Placing the Afghan citizens resettlement scheme on a statutory footing would make it less flexible and less able to respond to changing circumstances internationally.
+
+A huge programme of work, called Operation Warm Welcome, is under way across the whole of Government to ensure that Afghans evacuated to the UK receive the vital support they need. This work, overseen by the Minister for Afghan Resettlement, my hon. Friend the Member for Louth and Horncastle (Victoria Atkins), spans different Government Departments, charities, non-governmental organisations, local authorities and communities. The aim is to ensure that Afghans can be properly supported as they rebuild their lives in the UK, while also ensuring that local services are not put under undue strain. The support being provided is similar to that of the vulnerable persons resettlement scheme in response to the conflict in Syria, to ensure that people get the vital healthcare, education, support into employment and accommodation they need to fully integrate into society.
+
+There are many who need our protection, and the UK plays a leading role as one of the world’s largest refugee resettlement states. However, regrettably the UK is not able to provide protection to everyone, and it is essential that any decisions regarding the number of people we resettle take into consideration our capacity to support people to rebuild their lives in the UK. We are clear that the number of people we can resettle depends on a variety of factors, including local authorities’ capacity.
+
+Paul Blomfield (Sheffield Central) (Lab)
+I just want to pick up on the Minister’ point, which he has made time and again, about the UK leading on resettlement. Does he accept the figures that show that since the start of 2020, the UK has resettled 1,991 refugees, according to the United Nations High Commissioner for Refugees? That is less than France, less than half the number for Germany, and about a quarter of the number for Sweden. In what way is that a leading role?
+
+Tom Pursglove
+I think it is fair to say that this country historically has had a leading role in resettling refugees, and the hon. Gentleman will recognise that we have debated this many times during the course of this Committee’s proceedings, and I have referred to the figure of 25,000 people on several occasions. I am confident that that proud tradition will continue. I am not privy to the figures that he has just cited, but I make the point that we have also been in a pandemic, which clearly has had knock-on effects across life and society in our country and in the international environment.
+
+Jonathan Gullis (Stoke-on-Trent North) (Con)
+It sounded as though the hon. Member for Sheffield Central was asking for unfettered, uncontrolled, open-border access to this country. We have already had 20,000 illegal economic migrants crossing the English channel. I was down in Dover yesterday with Baroness Hoey, the former Labour Member of Parliament, and saw with utter shock the situation regarding the illegal attempts at crossing. Does the Minister agree that the hon. Gentleman’s words show that the Labour party is out of touch with what people want?
+
+Tom Pursglove
+I am grateful to my hon. Friend for that intervention, and no doubt we will have a conversation about his visit to Dover.
+
+Bambos Charalambous
+As I mentioned in my speech, the Government chose who came into the UK through the voluntary resettlement scheme and they will do so under this scheme as well. Remarks about giving unfettered or unlimited access to everyone are therefore ludicrous, because the Government will be in control of who can enter the UK from Afghanistan through this scheme. To make such aspersions is clearly wrong and misleading.
+
+Tom Pursglove
+The shadow Minister interrupted me while I was responding to the point made by my hon. Friend the Member for Stoke-on-Trent North, and, of course, I was happy to take his intervention. The scheme we intend to bring forward is structured and it should not be seen in isolation in relation to Afghanistan. It is important to consider it in the context of the Afghan relocations and assistance policy, which has been invaluable and plays an important role in our efforts to provide sanctuary to those fleeing Afghanistan. That is very important to consider.
+
+To continue with my point about the participation of civil society in community sponsorship, we have been working around the clock to stand up support with local authorities and to secure accommodation for the scheme. There is a huge effort under way to get families who have already been evacuated to the UK into permanent homes so that they can resettle and rebuild their lives. Clearly, we do not want families to remain in bridging accommodation for long periods, so it is sensible to have a limit on the number of places we offer on the scheme.
+
+The new clause seeks to bring the Afghan citizens resettlement scheme into force within 30 days from the date of Royal Assent. We are working at pace to open the scheme, and the new clause would likely result in significant delays in resettling individuals under the scheme.
+
+During the passage of the Bill, we have had many debates relating to Afghanistan. I said previously that I would ensure that the Minister for Afghan Resettlement was made aware of the Committee’s comments, and I will endeavour to do that again. It is important that all views are heard as we work at pace to shape this scheme and to make sure that we get it right, so that we are able to provide sanctuary to those to whom Members across the Committee and across the House want to provide it.
+
+Previous schemes have not been delivered through legislation. I would argue that it is best to be responsive and flexible, and that not putting the scheme on a statutory basis has that effect. The shadow Minister used the word “rigid”. I would argue that not going down the statutory route ensures we can be flexible as to the evolving situation, and provide proper care and support to people who come here.
+
+We want coming to the UK to be a positive and life-changing experience, and we want to provide sanctuary and care for those individuals. I am confident that that is precisely what we will do in delivering this scheme and that our country will be able to be incredibly proud of it. We owe it to those individuals to provide them with sanctuary, and that is precisely what we will do. With that, I ask the hon. Members to withdraw the new clause.
+
+Bambos Charalambous
+I am not convinced by the Minister’s arguments, which clearly amount to a new cap on immigration. I will repeat the number for the benefit of the hon. Member for Stoke-on-Trent North: there are 5 million people potentially eligible to come to the country via the British national overseas visa scheme; we are just asking that more than 5,000 people are able to come from Afghanistan. If that limit is rigidly applied, people’s lives could be in danger.
+
+Question put, That the clause be read a Second time.
+
+Division 66
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 6
+Noes: 10
+Question accordingly negatived.
+
+New Clause 2
+
+Dispersal policy and asylum accommodation arrangements
+
+“(1) The Secretary of State must make regulations—
+
+(a) ensuring that the proportion of supported asylum seekers accommodated in each government region will reflect each region’s share of the United Kingdom population; and
+
+(b) requiring each Local Authority to accommodate a share of supported asylum seekers, with the share of supported asylum seekers to be agreed between the local authorities in each government region.
+
+(2) To the extent that the implementation of these regulations results in additional expenditure by a local authority in the United Kingdom, the local authority may apply to the Secretary of State for funding to meet that expenditure.”—(Bambos Charalambous.)
+
+This new clause will make the dispersal and asylum accommodation scheme mandatory for all local authorities and require all local authorities to make a contribution towards supporting asylum seekers and require the Government to fully fund any additional expenditure.
+
+Brought up, and read the First time.
+
+Bambos Charalambous
+I beg to move, That the clause be read a Second time.
+
+The Opposition urge the Government to adopt a mandatory dispersal and asylum accommodation scheme that will require all local authorities to contribute towards supporting asylum seekers and the Government to fully fund any additional expenditure for those authorities. Having listened to the hon. Member for Stoke-on-Trent North speak about his local authority taking its fair share of asylum seekers in dispersal asylum accommodation, I can honestly say that, on this and this alone, I agree with him, and I know he will have no difficulty in supporting our new clause.
+
+Local authorities currently volunteer to participate in dispersal arrangements. The Home Secretary has reserve powers to ensure that local authorities co-operate in the provision of accommodation for asylum seekers through sections 100 and 101 of the Immigration and Asylum Act 1999. The current dispersal system is unfair and inefficient, with the majority of asylum seekers housed in disadvantaged local authority areas while dozens of councils support none. This has led to some councils that have been incredibly generous and kind in taking asylum seekers, such as that in the great city of Stoke-on-Trent, feeling undermined by councils that have not and threatening to leave the Government’s voluntary scheme.
+
+In the Committee’s evidence session on 21 September, I asked the leaders of Kent County Council and Westminster City Council, Councillor Gough and Councillor Robathan, whether they thought that all councils should have to take their fair share of asylum seekers. Both agreed that they should as they spoke about the pressures on services for their local councils. In August, the Local Government Chronicle ran a story about council leaders demanding a fairer distribution of refugees, in which Coventry City Council leader George Duggins said:
+
+“All local authorities need to take their fair share of the dispersal programme—no opting out, no excuses”.
+
+It also included Walsall Council leader Mike Bird saying that the dispersal of asylum seekers was
+
+“an issue for the whole of the country, not just the urban areas”,
+
+and Stoke-on-Trent City Council leader Abi Brown, whom I am sure the hon. Member for Stoke-on-Trent North will be familiar with, saying that it was “really sad” that many councils had still not pledged to take any Afghan refugees, adding:
+
+“How do we counter this if there isn’t some national scheme?”
+
+Jonathan Gullis
+The hon. Gentleman rightly quotes the leader of Stoke-on-Trent City Council. My hon. Friends the Members for Stoke-on-Trent South (Jack Brereton) and for Stoke-on-Trent Central (Jo Gideon) and I agree that other parts of our United Kingdom should step up to the plate and do much more. I reiterate and put on the record that I support Stoke-on-Trent City Council, which is currently looking to withdraw from the voluntary dispersal scheme because it is unhappy with how it works at present. Therefore, while I have a lot of empathy with what the hon. Gentleman’s new clause seeks to do, I will—reluctantly, in some ways—not vote for it. However, I would absolutely like to work with the hon. Gentleman and Opposition and Government Members to make sure that the scheme becomes much fairer and works for other parts of our United Kingdom.
+
+Bambos Charalambous
+I look forward to having that conversation with the hon. Gentleman after the debate, because we need a fairer system; too much of the burden is clearly being put on some local authorities and not enough on others.
+
+Local authorities are vital partners in providing suitable accommodation and support for people seeking asylum. The system works best when central Government, the devolved Governments and local government work together, alongside the voluntary sector and community groups. This requires local authorities to be fully on board with plans to accommodate people in their area. However, figures have shown that more than half of those seeking asylum or who have been brought to Britain for resettlement are accommodated by just 6% of local councils, all of which represent areas with below average household incomes.
+
+12:15:00
+
+The new clause would ensure that local authorities across the country are treated fairly and given the resources that they need to support asylum seekers. That will fit well with the Government’s levelling-up agenda, and will be an opportunity to rebalance the asylum system and ensure that all local authorities take their fair share, not just those that sign up to the voluntary scheme. If the Government do not support the new clause, perhaps the Minister can advise what their plans are for providing dispersal and asylum accommodation, when many councils are rushing for the exit as they feel that they have done their bit.
+
+Stuart C. McDonald
+I have said a lot about asylum accommodation in previous years and months. I agree that there are huge problems with the asylum accommodation system, such as over-concentration, too often poor-quality accommodation, a lack of funding for the local authorities that actually step up to the plate and volunteer to undertake the task, and a lack of control and power for those local authorities. Too often they play second fiddle to the companies and organisations contracted to the Government.
+
+I support broadening dispersal, but I am not on board at this stage with mandating it. Repeatedly, local authorities, whether in the west midlands, Glasgow or elsewhere, and other organisations such as the Home Affairs Committee, on which I sit—we have had a couple of reports on this issue—have listed all the things that the Home Office could engage with and undertake to improve the system. I know from speaking to authorities that if the Home Office did those things and increased the powers and financing of local authorities, more would come on board. If the Home Office did that, I do not think that mandation would be required.
+
+If the Home Office fixes its end of the bargain and local authorities are still not getting on board, at that stage I would have no choice but to support mandation, but I do not think that we are at that stage yet. I, too, will quote Abi Brown, who was very measured in her comments when local authorities from the west midlands were writing to the Home Office. She said:
+
+“This is about trying to open up a discussion about how the asylum dispersal system works. So far it’s been very frustrating trying to get the Home Office to engage with us on this issue. We want them to talk to us about how the system can be improved, and we’ve made a number of suggestions in the letter.”
+
+She went on to say:
+
+“This isn’t about party politics, it’s about parity.”
+
+I absolutely agree with that. There is a growing consensus that the Home Office has to up its game on how the dispersal system works. That is what we have to look at, rather than mandating local authorities.
+
+Tom Pursglove
+I agree with some of the intention behind new clause 2. It is right that all parts of the UK make a reasonable contribution to ensuring that adequate accommodation is available for asylum seekers who would otherwise be destitute, but it is important to recognise that not every area of the UK has appropriate services or affordable accommodation to appropriately support them. Additionally, some local authorities have very few asylum seekers accommodated by the Home Office in their areas but support large numbers of other migrants. For example, the Home Office does not accommodate many adult asylum seekers and their children in Kent or Croydon, but both local authorities support large numbers of unaccompanied asylum-seeking children.
+
+It is also important to note that not all asylum seekers are accommodated by the Home Office. The proportion varies over time, but historically around 50% find accommodation with friends or family. That group often live in areas where there are few supported asylum seekers, but they still require access to the same health and education services. It is not therefore sensible to have a rigid set of rules that require destitute asylum seekers to be accommodated in areas in direct proportion to the population of those places. The other factors that I have described must be taken into consideration.
+
+Since the introduction of part 6 of the Immigration and Asylum Act 1999, successive Governments have employed a policy of seeking the agreement of local authorities prior to placing asylum seekers within an area. However, the legislation does not provide local authorities with a veto on the placement of asylum seekers in their areas. If a local authority objects to proposals by our providers to use accommodation not previously used to house asylum seekers, the Home Office can consider and adjudicate on the matter.
+
+A lot of work has none the less been done on increasing local authority participation in asylum dispersal since 2015. Prior to 2015, there were around only 100 local authorities participating. There are now around 140. We have established the local government chief executive group to bring together senior representatives from local authorities, with the aim of expanding the dispersal system and improving the process for the people who use it. We are planning a wider review of the dispersal process and will be consulting local authorities and others.
+
+The local government chief executive group is working collaboratively to evidence any additional costs to local authorities by the dispersal proposal and to identify the appropriate funding mechanism. In light of what I have said, I hope that the hon. Member for Enfield, Southgate will withdraw the motion.
+
+Bambos Charalambous
+I am sorry, but I suggest that we vote on the new clause.
+
+Question put, That the clause be read a Second time.
+
+Division 67
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 5
+Noes: 10
+Question accordingly negatived.
+
+New Clause 3
+
+Acquisition of British citizenship by birth or adoption: comprehensive sickness insurance
+
+“(1) The British Nationality Act 1981 is amended as follows.
+
+(2) After subsection 1(3A) insert—
+
+‘(3B)(a) A person born in the United Kingdom after commencement who is not a British citizen is entitled, on application, to register as a British citizen if the person’s father or mother would have been settled in the United Kingdom at the time of the person’s birth, if Assumption A had applied.
+
+(b) Assumption A is that, in assessing whether the person’s father or mother met a requirement to have held comprehensive sickness insurance, this is to be regarded as having been satisfied whenever they—
+
+(i) had access to the NHS in practice; or
+
+(ii) held a comprehensive sickness insurance policy.
+
+(c) Registration under this subsection shall be free of charge.’
+
+(3) After section 50A insert—
+
+‘50B Exceptions
+
+Notwithstanding any provision of section 50A, for the purposes of an application for naturalisation or registration made under this Act, a person—
+
+(a) is not to be treated as having been in the United Kingdom in breach of the immigration laws during a period of time that has been counted as part of a continuous qualifying period in a grant of leave to that person under Appendix EU of the Immigration Rules, and
+
+(b) is not to be treated as not being of good character on account of a failure to hold comprehensive sickness insurance during some period of residence in the UK.’
+
+(4) The European Union (Withdrawal Agreement) Act 2020 is amended as follows.
+
+(5) After section 15, insert—
+
+‘15A Comprehensive sickness insurance
+
+(1) For the purposes of any decision taken by a public authority under this Part after commencement of this section, a person is to be treated as having met a requirement to have held comprehensive sickness insurance, whenever they—
+
+(a) had access to the NHS in practice; or
+
+(b) held a comprehensive sickness insurance policy.
+
+(2) This section shall in particular apply to any decisions taken under residence scheme immigration rules.’”—(Bambos Charalambous.)
+
+This new clause rectifies an anomaly requiring a person seeking to acquire permanent residence documents, naturalisation or citizenship to have had comprehensive sickness insurance prior to applying for citizenship when EEA and Swiss citizens did not need comprehensive sickness insurance because they had free access to the NHS.
+
+Brought up, and read the First time.
+
+Bambos Charalambous
+I beg to move, That the clause be read a Second time.
+
+We believe that new clause 3 is necessary because of an issue relating to comprehensive sickness insurance, which has been affecting EU citizens and babies born in the UK to EU parents. The issue is preventing naturalisation or automatic access to the right to be registered as British born. We believe that that is unfair and incorrect. Historically, access to the NHS for European economic area and Swiss citizens was free at the point of use, on the same terms as residents who are British citizens, without the need for any further insurance.
+
+The Immigration (European Economic Area) Regulations 2016 included a requirement for comprehensive sickness insurance, but this requirement was not routinely communicated to EEA and Swiss citizens, and was only required at the point of applying to the Home Office. This has led to a situation where individuals have been refused permanent residence documents, naturalisation applications and citizenship at birth, and have lost family reunion rights under the separation agreements following a discretionary grant of naturalisation. Not only was the requirement for comprehensive sickness insurance not made clear prior to applying to the Home Office, but CSI might not have been relevant to EEA or Swiss citizens, such as during periods of study or self-sufficiency.
+
+I will set the issue in a wider context. The UK has set up the EU settlement scheme, which allows EU citizens to acquire settled status, but many want to become British. They want the right to vote and the security of the nationality of their adopted home, the United Kingdom. However, the requirement to have an obscure health insurance policy is putting applications at risk of refusal and is discouraging many from applying. The British Nationality Act 1981 requires applicants to have not been in breach of immigration laws for any period relied on in the application. While a lot of EU citizens need only to have been living in the UK, students and those who are self-sufficient must also be in possession of comprehensive sickness insurance. However, the possession of CSI has never been a requirement for EU citizens to live in the UK or use the NHS, so most people do not and never have had it.
+
+More concerning is the fact that the Home Office never communicated clearly to EU students and self-sufficient people that they would need to have CSI to become British. The Home Office, which is in charge of decisions relating to applications for citizenship, has maintained the policy despite questions from various organisations, including the3million. In May 2020, updated guidance to caseworkers confirmed the policy, changing the application process to ask for CSI and directing caseworkers to check for it. The guidance introduced a vague power of discretion, but no details were provided as to how that discretion should be applied.
+
+In the Opposition’s view, it is clearly unfair that this anomaly relating to CSI has led to historical and ongoing injustices. It is not fair that what appears to be an additional random requirement for one group of citizens—not communicated prior to application—has, in effect, defined people’s ability to naturalise or claim citizenship.
+
+We therefore believe that the new clause is needed to make the law fair. The historical requirement demanding that individuals hold CSI should also be satisfied by them having had free access to the NHS at the point of use without further insurance. The addition of historical access to the NHS as a satisfying condition would be much fairer. I will give some examples to further illustrate the need for this.
+
+Roberto is Portuguese and arrived in the UK in 2006. He did an undergraduate degree in the UK, where he met his wife. During their university years, they studied full time and did not have CSI as they were never made aware of that requirement for full-time EU students in the UK. They had a son in the UK in 2011 and applied for his British passport, believing that he would automatically be born British.
+
+However, when Roberto and his wife contacted the Home Office for information about the passport application, they were told that as they had not had CSI in the five years preceding the birth, he was not considered to be British. This new clause would address this problem, as the parents’ CSI requirement would have been met by their having had access to the NHS. Consequently, the fact that the child should have been born British can now be addressed by registering for British citizenship at no charge.
+
+I would like the Committee to consider another example illustrating the need for this new clause. Lara is a Brazilian-Italian citizen who has been living in the UK since 2014. Between 2014 and 2017, Lara was in work, but she started a full-time degree at the University of Cambridge in September 2017. In July 2019, Lara was granted settled status under the EU settlement scheme and was looking forward to applying for naturalisation as a British citizen in 2020 after holding settled status for a year. Lara has since started working again, and has been made aware that she should have held CSI while she was at university—a requirement she was never made aware of by either her university or her GP.
+
+If Lara applies for naturalisation, she may fail the lawful residence requirements due to the absence of CSI and may have her application refused. Since late 2020, caseworkers have had the discretion to grant citizenship when there are compelling grounds, although those are not clearly defined in any Home Office guidance. Therefore, like many other EU citizens, Lara is afraid of taking the risk of paying the £1,330 naturalisation fee and not obtaining a positive outcome.
+
+Our new clause would mean that the period of residence that led to the grant of settled status would be considered to be lawful residence, and that the good character requirement could not be failed for a lack of CSI. That would give EU citizens like Lara the confidence to apply for naturalisation, knowing that they would meet all the criteria.
+
+It is important to note that if Lara applies for citizenship and is granted it through caseworker discretion, the CSI issue is likely to still affect her in the future. If she then wished to be joined by a family member in the UK, the complex appendix EU immigration rules, which define the EU settlement scheme, mean that she would fall outside the definition of “qualifying British citizen” due to her historical lack of CSI, and therefore lose the scheme’s right to family reunion. If Lara does not become a British citizen, she would have that right through having settled status.
+
+The new clause would mean that for future decisions taken under the immigration rules, the CSI requirement would be met by access to the NHS, meaning that EU citizens like Lara would not unexpectedly lose the rights they had before naturalising. We believe that this new clause is needed to address this unfair anomaly around CSI.
+
+Tom Pursglove
+I thank the hon. Members for tabling the new clause, which relates to the requirement, in certain circumstances, for EEA nationals to have had comprehensive sickness insurance to have been residing lawfully in the UK. Regulations set out the requirements that EEA nationals needed to follow if they wished to reside here lawfully on the basis of free movement. In the case of students or the self-sufficient, but not those who were working here, the possession of CSI has always been a requirement.
+
+12:30:00
+
+The first part of the new clause would create an entitlement for a child to register as a British citizen if their parent would have been settled but for the fact that they did not have CSI. It also suggests that such an application should be free of charge. The position of children born in the UK when their parents were not settled is not unique to EEA nationals. There will be families who were not settled in the UK at the time of their child’s birth for a variety of reasons, and it would not be right to single out the children of non-settled EEA nationals without CSI for a specific and free route.
+
+There are already routes for children who do not become British automatically. For example, parents who did not qualify for permanent residence could still apply for settled status under the EU settlement scheme, and they did not need CSI to do so. Once they were settled in the UK, they could apply to register their child who was born in the UK before 1 July 2021 as a British citizen.
+
+We have some sympathy for EEA nationals who claim they did not realise that they needed to have CSI to live lawfully in the UK, which is why we introduced guidance for naturalisation caseworkers to explain that discretion can be exercised over the lawful residence requirements if a person did not meet an additional or implicit condition of stay—as opposed to an explicit condition such as illegal entry or overstaying—under EEA free movement regulations. I am not aware of any application for British citizenship being declined purely because of the CSI requirement under EEA free movement regulations.
+
+Stuart C. McDonald
+It is useful that guidance exists, but does the Minister appreciate that if somebody is considering spending more than £1,000 to make an application and there is no clarity—nothing stronger—they almost certainly will not take the risk? Is it not possible to put something firmer into the guidance for caseworkers to say that, in the overwhelming majority of cases, the lack of CSI should be ignored?
+
+Tom Pursglove
+The hon. Gentleman will appreciate that this matter falls within the portfolio of the Minister for Future Borders and Immigration, so if the hon. Gentleman does not mind, I shall take away that suggestion and ask the Minister to consider it. If the hon. Gentleman wants to follow up in writing with the Minister, I am sure my hon. Friend would consider that and come back to him. I will certainly make sure that he is aware of the suggestion the hon. Gentleman raises.
+
+The new clause would amend the naturalisation requirements for EEA nationals who did not have CSI and so had not been in the UK lawfully before they acquired settled status. We cannot accept that, as all applicants are required to meet the same requirements for naturalisation in terms of lawful residence and it would not be right to treat certain nationalities differently.
+
+The third part of the new clause would amend the European Union (Withdrawal Agreement) Act 2020 such that a person is treated as having had CSI if they had access to the NHS in practice or held a CSI policy. However, there is no mention of CSI in the rest of that Act, nor is there any mention of CSI in residence scheme immigration rules. The EU settlement scheme does not test for CSI and there is no need to have held it in the past, or to hold it now, in order for EEA nationals to obtain settled or pre-settled status. As such, that part of the new clause would have no practical effect. I therefore ask the hon. Members to withdraw their new clause.
+
+Bambos Charalambous
+I will press the new clause to a Division.
+
+Question put, That the clause be read a Second time.
+
+Division 68
+04/11/2021 00:00:00
+The Committee divided:
+Ayes: 6
+Noes: 10
+Question accordingly negatived.
+
+New Clause 4
+
+Minimum Income Requirement: Family members of British citizens with a connection to British Indian Ocean Territory
+
+“(1) This section applies where—
+
+(a) the Secretary of State makes a decision under Appendix FM of the UK’s Immigration Rules on whether to grant entry clearance, leave to remain or indefinite leave to remain on the basis of family reunion to a person; and
+
+(b) the sponsor of the person is a British citizen who was born on, or descended from a person born on, British Indian Ocean Territory.
+
+(2) In a decision to which this section applies, the Secretary of State shall not require the person to meet—
+
+(a) a minimum income requirement; or
+
+(b) an English language requirement.”—(Stuart C. McDonald.)
+
+This new clause would prevent the Government from imposing a minimum income requirement or an English language requirement when deciding whether to grant entry clearance, leave to remain or indefinite leave to remain to family members of British citizens with a connection to the British Indian Ocean Territory.
+
+Brought up, and read the First time.
+
+Stuart C. McDonald
+I beg to move, That the clause be read a Second time.
+
+The Chair
+With this it will be convenient to discuss new clause 15—Acquisition by registration: Descendants of those born on British Indian Ocean Territory—
+
+“(1) The British Nationality Act 1981 is amended as follows.
+
+(2) After section 17H (as inserted by section 7), insert—
+
+‘17I Acquisition by registration: Descendants of those born on British Indian Ocean Territory
+
+(1) A person is entitled to be registered as a British Overseas Territories citizen on an application made under this section if they are a direct descendant of a person (“P”) who was a citizen of the United Kingdom and Colonies by virtue of P’s birth in the British Indian Ocean Territory or, prior to 8 November 1965, in those islands designated as the British Indian Ocean Territory on that date.
+
+(2) A person who is being registered as a British Overseas Territories citizen under this section is also entitled to be registered as a British citizen.
+
+(3) No charge or fee shall be imposed for registration under this section.’”
+
+This new clause would allow anyone who is descended from a person born before 1983 on the British Indian Ocean Territory to register as a British Overseas Territories citizen. They may also register as a British citizen at the same time. Both applications would be free of charge.
+
+Stuart C. McDonald
+I thank the Chagossians who spoke to the shadow Minister and myself, and Fragomen solicitors for facilitating that discussion and drafting the new clauses. As Members, and particularly Conservative Members, will know, the hon. Member for Crawley  (Henry Smith), in whose constituency we find the UK’s largest Chagossian diaspora, has championed Chagossians for many years. On Second Reading I asked the Government to consider introducing a clause to rectify some of the injustices that Chagossians have faced for more than half a century. I understand that they will bring in an amendment on Report to do that, but today we seek to probe their initial thinking.
+
+We could speak all day about how outrageously the Chagossians were treated by the UK and the US. They were removed from their islands simply to make way for an airbase, dumped in Mauritius and elsewhere and basically forgotten about. There are myriad injustices that are still to be put right. The new clauses do not fix everything, but they would fix significant injustices in relation to nationality—exactly what part 1 of this Bill was supposed to do—and family. Some Chagossians would benefit from provisions in part 1 of this Bill, which is welcome, but the Bill needs to go much further if they are to have access to the citizenship that is rightly theirs and that has been denied them only by the outrageous events of the late 1960s and the early 1970s. 
+
+As we touched on during debates on part 1, citizenship by descent in British and British overseas territories’ nationality law usually stretches to only one generation. If someone moves abroad, the children they have there will be British by descent, but if those children remain abroad and later have kids they would not be able to pass on that British citizenship. That reflects the idea that the family have made a voluntary decision to loosen their links to the UK and to build a new life elsewhere. Therefore, citizenship of the country where they now live is probably more appropriate.
+
+Exceptions are made—for example, if the only reason the person was abroad was Crown service or if the parent who could not pass on citizenship has actually lived in the UK for three years previously or goes on to do so. All of that illustrates the point that reflecting the idea of a voluntary link to the UK justifies continued transmission of UK citizenship.
+
+None of that can apply to the Chagossians; the situation there is obviously manifestly different. The only reason why Chagossians cannot pass on their British overseas territory citizenship is that they were forcibly removed from their islands. Nobody chose to make a new life in Mauritius or anywhere else—far from it. Nobody can say that they have voluntarily chosen to take on a new identity elsewhere. Any undermining or breaking of the link was completely forced on them in quite the most outrageous circumstances; that in itself should be enough to justify new clause 15.
+
+The knock-on effect is that when the law was changed in 2002, while some Chagossians became British citizens as well as British overseas territory citizens, others missed out. They are now in the horrible situation where some have the right to rekindle their British identity and return here, but others do not. If I was a Chagossian whose parent was born just before being forcibly removed from the islands, and was therefore BOTC by birth, I am likely to be in a far better position than, for example, my cousin whose parents were born just days after being forced from the islands, and therefore cannot transmit their BOTC or British citizenship. When introducing the Bill, the Home Secretary said that it would mean children unfairly denied British overseas territory citizenship will finally be able to acquire citizenship, as well as British citizenship. What happened to the Chagossians, and what they still face today, is an absolute scandal. The least that we can do is ensure that all of them can access the nationality that the UK and US action deprived them of.
+
+New clause 4 would fix another unfairness. I absolutely detest the restrictive rules that the Home Office has put in place on family visas, which say that someone must be earning certain sums of money before they can bring their non-national spouse or children here. Putting that to one side for the moment, even accepting the Government’s own logic, these provisions should not apply to the spouses and family members of Chagossians. Essentially, the Government logic is that if people choose to build a family life elsewhere and then come back to the UK, they should have certain financial means to support themselves and knowledge of the UK. However, again, Chagossians did not choose to make their family life outside British overseas territories—that was forced on them. It would now be totally unfair to restrict the right to come to the UK by imposing those rules on the families as if this was a choice they made.
+
+It was a step in the right direction to provide British citizenship to some in 2002, but it is cruel to deny effective access to these routes by denying family members the right to come here. It is particularly cruel, given that the reason many will not be able to meet the financial threshold is the horrendous way they have been treated for decades and the extraordinary deprivation they have had to endure. I hope the Home Office will look to fix two of the many injustices that have been visited on the Chagossians.
+
+Bambos Charalambous
+I will speak to new clause 15, which is grouped with new clause 4. I fully endorse what the spokesperson for the SNP said.
+
+New clause 15 seeks to rectify a long-standing issue in British nationality law that affects a relatively small number of people—the Chagossian people, descendants of the Chagos islanders, who were forcibly removed from the British Indian Ocean Territory in the 1960s. Between 1968 and 1974, the UK forcibly removed thousands of Chagossians from their homelands on the Chagos islands. The removal was done to make way for a US military base on Diego Garcia. The Chagossians were a settled population on the islands. Their origins trace back to 1793. They were removed and deported to Mauritius and the Seychelles, more than 1,600 km away from the Chagos islands, and have faced extreme poverty and discrimination in those places.
+
+Because of the removal, many descendants of the Chagos islanders, despite being the grandchildren of people who were British subjects in the British Indian Ocean Territory, have been denied rights to British citizenship. The British Overseas Territories Act 2002 granted British citizenship to resettled Chagossians born between 1969 and 1982—the children of those born on the British Indian Ocean Territory. However, many Chagossians have still been denied citizenship, including second-generation Chagossians born outside those dates.
+
+The grandchildren of those born on the British Indian Ocean Territory, third-generation Chagossians, do not have rights to British citizenship, as citizenship has not automatically passed to them, even if in some cases they migrated to the UK with their British parents at a very young age. That group therefore often become an undocumented presence in the UK once they reach the age of 18, and are denied access to jobs, housing and healthcare, despite having lived in the UK since a very young age.
+
+The Chagossian community is divided between Mauritius, the Seychelles and the UK. Broken and divided families are therefore a direct consequence of this injustice in British nationality law. For 60 years, the Chagossian people have faced dispersal, poverty and separation. That has severely limited their life chances and damaged the health and wellbeing of generations of people.
+
+The Bill in its current state does not cover the British citizenship and immigration issues that the Chagossian community faces. That is why the Opposition are introducing this new clause and why we wish to raise the issue today. It is worth exploring this unfairness in more detail, and the reasons why legislation has failed to rectify it to date.
+
+Under British nationality law, citizenship is normally passed only to one generation born abroad. However, the situation of the Chagossians is fundamentally different from that of other inhabited British overseas territories, and applying that restriction to the Chagossians is unacceptable. As we know, their parents and grandparents were forcibly removed from their homeland and deported to Mauritius and the Seychelles. Since then, the Chagossian people have been born outside the Chagos archipelago and receive citizenship from Mauritius or the Seychelles, with no recognition of their long-standing ties to British nationality.
+
+It is not possible for the descendants of the Chagos islanders to be born on the islands of the British Indian Ocean Territory due to the Order in Council since 2004, which bans any Chagossian from living on their native land. That is deeply unfair. They have not severed links with their British citizenship voluntarily; they have been excluded by the UK Government. At this point I would like to share the personal experiences of those affected by that injustice. Like many in Committee, I have been contacted by members of the community, and I pay tribute to their campaigning efforts in incredibly distressing and difficult circumstances, including groups such as Chagossian Voices. Pascal Francois is one of those affected. He resides in Mauritius and is Chagossian. He says:
+
+“For years we have suffered from the separation of our families, through no fault of our own. We are as British as you and the next person. We wish to be known as British, we belong to the UK &amp; her territories. The Chagossian people in exile no longer want to live in the shadows of others. We want to belong and be British by descent.”
+
+The battle for Chagossians’ rights has been raging for decades, and this group of people have been badly let down by the UK. Most Chagossian families, already financially impacted by their enforced exile, are paying—and have paid for many years—huge and increasing visa, immigration and citizenship fees, health surcharges and legal expenses for spouses and children with pending or rejected applications. This process has significantly damaged their health, wellbeing and livelihoods. It has caused immense stress. There is understandable frustration at the lack of support from the Home Office.
+
+12:45:00
+
+Many face the threat of deportation, including young people who have lived in the UK for most of their lives and whose parents are British citizens. Ordinarily, they would have British citizen rights, but because of their exile they have been denied their rights. This injustice in British nationality law has lasted for more than half a century. We believe it requires special attention and cross-party support.
+
+New clause 15 aims to highlight this injustice. It would allow anyone who is descended from a person born before 1983 on the British Indian Ocean Territory to register as a British overseas territories citizen. In turn, they may also register as a British citizen. Both applications would be free of charge.
+
+Despite our deep concerns about other measures in the Bill, it provides an opportunity for the UK to end this injustice for the descendants of the Chagos islanders and rectify a long-standing anomaly in British nationality law. I hope this opportunity is taken.
+
+Tom Pursglove
+I appreciate the positive intent behind new clause 4, which seeks to create a means whereby, in the future, British citizens who were born on, or descended from a person born on, the British Indian Ocean Territory will be able to bring their foreign national spouse or partner to the UK, without their being subject to the current financial and English language requirements for family migration.
+
+I remind hon. Members that the minimum income requirement is based on in-depth analysis and advice from the independent Migration Advisory Committee. The purpose of the requirement, implemented in July 2012 along with other reforms of the family immigration rules, is to ensure family migrants are supported at a reasonable level so they do not become a burden on the taxpayer and can participate sufficiently in everyday life to facilitate their integration into British society. Family life must not be established here at the taxpayer’s expense and family migrants must be able to integrate if they are to play a full part in British life.
+
+The minimum income requirement was set following advice from the independent Migration Advisory Committee, at £18,600 for sponsoring a partner, rising to £22,400 for also sponsoring a non-qualifying child and an additional £2,400 for each further such child. There is no flexibility in the level of the minimum income requirement, which must be met in all cases subject to the requirement; it is right and fair it should be consistently applied in all cases. Expecting family migrants and their sponsors to be financially independent is reasonable, both to them and the taxpayer.
+
+In February 2017, the Supreme Court upheld the lawfulness of the minimum income requirement under the family immigration rules. The Court found the minimum income requirement is not a breach of the right to respect for a private and family life under article 8 of the European convention on human rights and is not discriminatory. The Supreme Court endorsed our approach in setting an income requirement for family migration that prevents burdens on the taxpayer and ensures migrant families can integrate into our communities. The Supreme Court agreed that it strikes a fair balance between the interests of those wishing to sponsor a partner to settle in the UK and of the community in general.
+
+Being able to speak English is also fundamental to successful integration into British society.
+
+Stuart C. McDonald
+I would just gently say that the response is slightly tone deaf. First, the Migration Advisory Committee has asked the Government to revisit the financial thresholds the Minister mentions. Secondly, we are talking about Chagossians who were forcibly removed from their islands. Consistency is fine, but these are truly exceptional circumstances. Surely most taxpayers would perfectly understand that different rules have to apply in these outrageous circumstances.
+
+Tom Pursglove
+In fairness, the hon. Gentleman has intervened early in my remarks on the new clauses. Let me continue, but I hear the point he raises, and I of course take it on board, in the way I take all comments from hon. Members on the Committee on board.
+
+We expect those coming to the UK on a family visa with only basic English to become more fluent over time, as a means of encouraging better integration into our society, to make it easier for families to access vital public services and to enable parents to support their children’s education.
+
+New clause 4 would undermine the sound basis on which family migration to this country has been placed in recent years. It would circumvent the need for family migration to be on a basis whereby families are financially independent and able to contribute to the UK. It would also remove the English language requirement, which is fundamental to a migrant’s successful integration into British society. There is no justifiable reason to give preferential treatment to family members based solely on their sponsor’s nationality. Without a clear justification for doing so, that would also likely constitute unlawful discrimination.
+
+The immigration rules on family migration, which new clause 4 would undermine, are designed to prevent burdens on the taxpayer, promote integration and tackle abuse, and thereby ensure that family migration to the UK is on a properly sustainable basis that is fair to migrants and the wider community. The rules are helping to ensure public confidence in the immigration system and, well intended as the new clause may be, it has the potential to reverse that.
+
+In the same way, the introduction of a dual family migration system as required by the new clause would not be seen in a uniformly positive way by British citizens and persons settled here. It would lead to an undesirable two-tier system of family migration in which a group of family members whose sponsor is a British citizen with a connection to the British Indian Ocean Territory would be given preferential treatment over other sponsors. Furthermore, the Government have the power under the Immigration Act 1971 to set out the requirements for entry into and stay in the UK in immigration rules, which are laid before Parliament. The rules allow flexibility to amend policy as appropriate, and the Government continue to review them regularly to ensure that they are fair and effective. Work is ongoing on simplification of the rules following the Law Commission’s recommendations. The new clause would have the effect of undermining that process and prescribing the rules in primary legislation for one particular cohort.
+
+I turn to new clause 15. We are already making changes through the Bill to address historic unfairness so that all those born on the British Indian Ocean Territory and their children are either automatically British citizens or have the right to acquire British nationality. The new clause, tabled by the hon. Members for Enfield, Southgate and for Halifax, seeks to go much further and would address what is seen as the consequences of historic unfairness. Although I am sympathetic with the aim, I am concerned that that is not the correct approach. The new clause would offer British citizenship in perpetuity to those born outside the UK and overseas territories regardless of their connection to the UK as long as they are descendants of someone born on the islands making up the British Indian Ocean Territory.
+
+Stuart C. McDonald
+I am not entirely surprised that the Minister’s first point is about the lack of any limit. Would the new clause be more amenable to him if there was a limit on the degree of relationship there had to be with a Chagossian?
+
+Tom Pursglove
+If the hon. Gentleman lets me conclude my remarks, I hope that that will give him a little comfort on that point. The approach proposed by the new clause cannot be right and would undermine the long-standing principle of British nationality law that nationality or entitlements to nationality are not passed on to the second and subsequent generations born and settled outside the UK and territories.
+
+I recognise, however, that the Chagossians present a unique case. My hon. Friend the Member for Crawley, who has long campaigned on behalf of the Chagossian communities both in his constituency and throughout the UK as vice chair of the Chagos islands (British Indian Ocean Territory) all-party parliamentary group, has indicated his intention to table an amendment on this issue on Report. I would like to reflect further on the complex issues faced by Chagossian communities in the UK and those in Mauritius and the Seychelles that have been raised by hon. Members on both sides of the Committee—I am mindful of the cross-party view—before making any significant changes to nationality law.
+
+Hon. Members from different parties have expressed views, and I have taken on board the points raised. I say to the hon. Member for Cumbernauld, Kilsyth and Kirkintilloch East that there is a willingness to look closely at the Chagossian issue. With that, I hope that hon. Members will be willing not to move their new clauses.
+
+Stuart C. McDonald
+As the Minister said, we will consider what has been said before we revisit this issue on Report. In the meantime, I beg to ask leave to withdraw the motion.
+
+Clause, by leave, withdrawn.
+
+New Clause 5
+
+Former British-Hong Kong service personnel: right of abode
+
+‘(1) The Immigration Act 1971 is amended as follows.
+
+(2) At the end of section 2(1) insert—
+
+“(c) that person is a former member of the Hong Kong Military Service Corps or the Hong Kong Royal Naval service, or
+
+(d) that person is the spouse or dependent of a former member of the Hong Kong Military Service Corps or the Hong Kong Royal Naval service.’—(Stuart C. McDonald.)
+
+This new clause would mean that all former British-Hong Kong service personnel, plus their spouses and dependents, would have right of abode in the UK.
+
+Brought up, and read the First time.
+
+Stuart C. McDonald
+I beg to move, that the clause be read a Second time.
+
+The new clause is on a cause championed by the hon. Member for Romford (Andrew Rosindell) for many years: the 300 or so Hong Kong servicemen who seek UK citizenship in recognition of their service in the UK-Hong Kong Army before the handover of Hong Kong to China in 1997. With family included, we are talking of about 1,000 people.
+
+Hongkongers served in our armed forces from 1857 right up to 1997 through world wars and numerous other conflicts. Hong Kong servicemen are recognised by the Ministry of Defence as veterans. In the early 1990s, the British nationality selection scheme allowed certain British nationals—rather than citizens—who were permanent residents of Hong Kong with a right of abode and who met a number of other eligibility criteria to apply for full UK citizenship. Of 654 British-Hong Kong servicemen who applied, only 159 were granted citizenship. Until now, the Home Office has resisted the campaign, but surely recent developments mean that it is now irresistible and that the Home Office must think again.
+
+The Home Office previously refused to budge on the grounds that veterans are deemed to have Chinese citizenship and that some were locally recruited staff, who could not have reasonably expected the right to British citizenship. However, those recent developments, which we understand and know only too well, have seen the Home Office introduce the really welcome scheme for British nationals overseas. It could have refused to establish any BNO scheme for precisely the same reason they have refused the campaign of the hon. Member for Romford. However, it rightly put those arguments aside. It should also put them aside in relation to these veterans, 97 of whom qualify for the BNO scheme. Let us build on that excellent work through a new clause such as this, which would ensure that all British-Hong Kong service personnel, plus their spouses and dependents, would have the right of abode in the UK. In the circumstances, surely it is the right thing to do.
+
+The Chair
+Before we adjourn the Committee, may I thank hon. Members for the courtesy with which they have conducted proceedings? These are contentious issues, and the Committee’s conduct has been commendable. I am grateful. I also offer my thanks on the Committee’s behalf to the staff and Officers of the House.
+
+Ordered, That the debate be now adjourned.—(Craig Whittaker.)
+
+12:56:00
+
+Adjourned till this day at Two o’clock.
+
